@@ -1,0 +1,21 @@
+ANYREL:-concept:on-_concept:on-@ANY_REL@-	0.8029306939479043
+-concept:on-_concept:on-concept:made_of-	0.8029306939479043
+ANYREL:-@ANY_REL@-_concept:on-concept:made_of-	0.8029306939479043
+ANYREL:-concept:on-_@ANY_REL@-concept:made_of-	0.8029306939479043
+-concept:in-_concept:on-concept:made_of-	0.19830884825348913
+ANYREL:-concept:in-_concept:on-@ANY_REL@-	0.19830884825348913
+ANYREL:-concept:in-_concept:in-@ANY_REL@-	0.11170576388987653
+-concept:in-_concept:in-concept:made_of-	0.11170576388987653
+ANYREL:-@ANY_REL@-_concept:used_for-concept:made_of-	0.07661682239915299
+-concept:used_for-_concept:used_for-concept:made_of-	0.07661682239915299
+ANYREL:-concept:used_for-_concept:used_for-@ANY_REL@-	0.07661682239915299
+ANYREL:-concept:used_for-_@ANY_REL@-concept:made_of-	0.07661682239915299
+!!!!NULL FEATURE!!!!	0.0
+ANYREL:-concept:in-_@ANY_REL@-concept:made_of-	-0.45061742782412556
+ANYREL:-@ANY_REL@-_concept:in-concept:made_of-	-0.5770688955385836
+-concept:on-_concept:in-concept:made_of-	-0.5770688955385836
+ANYREL:-concept:on-_concept:in-@ANY_REL@-	-0.5770688955385836
+-concept:made_of-_concept:made_of-concept:made_of-	-0.6931437566465084
+ANYREL:-concept:made_of-_concept:made_of-@ANY_REL@-	-0.6931437566465084
+ANYREL:-concept:made_of-_@ANY_REL@-concept:made_of-	-0.6931437566465084
+ANYREL:-@ANY_REL@-_concept:made_of-concept:made_of-	-0.6931437566465084

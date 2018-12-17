@@ -1,0 +1,6 @@
+Time for relation concept:in: 0 minutes and 0 seconds
+Time for relation concept:on: 0 minutes and 0 seconds
+Time for relation concept:made_of: 0 minutes and 0 seconds
+Time for relation concept:used_for: 0 minutes and 0 seconds
+PRA appears to have finished all relations successfully
+Total time: 0 minutes and 0 seconds

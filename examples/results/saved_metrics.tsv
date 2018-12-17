@@ -1,0 +1,80 @@
+robot/robot_sfe_bfs_pra_anyrel	__DISPLAY_NAME__	robot_sfe_bfs_pra_anyrel	1.0
+robot/robot_sfe_bfs_pra_anyrel	concept:on	Per Query MRR	0.7916666666666666
+robot/robot_sfe_bfs_pra_anyrel	concept:on	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra_anyrel	concept:on	% no predictions	0.16666666666666666
+robot/robot_sfe_bfs_pra_anyrel	concept:on	RR	1.0
+robot/robot_sfe_bfs_pra_anyrel	concept:on	Predicted MAP	0.6783414840878075
+robot/robot_sfe_bfs_pra_anyrel	concept:on	Per Query MAP	0.5652845700731729
+robot/robot_sfe_bfs_pra_anyrel	concept:on	AP	0.2901500635417763
+robot/robot_sfe_bfs_pra_anyrel	concept:on	Predicted MRR	0.95
+robot/robot_sfe_bfs_pra_anyrel	concept:in	Per Query MRR	0.8333333333333334
+robot/robot_sfe_bfs_pra_anyrel	concept:in	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra_anyrel	concept:in	% no predictions	0.0
+robot/robot_sfe_bfs_pra_anyrel	concept:in	RR	0.2
+robot/robot_sfe_bfs_pra_anyrel	concept:in	Predicted MAP	0.8090464566057303
+robot/robot_sfe_bfs_pra_anyrel	concept:in	Per Query MAP	0.8090464566057303
+robot/robot_sfe_bfs_pra_anyrel	concept:in	AP	0.341170749739012
+robot/robot_sfe_bfs_pra_anyrel	concept:in	Predicted MRR	0.8333333333333334
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	Per Query MRR	0.3333333333333333
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	% no predictions	0.6666666666666666
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	RR	1.0
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	Predicted MAP	1.0
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	Per Query MAP	0.3333333333333333
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	AP	0.09247685185185184
+robot/robot_sfe_bfs_pra_anyrel	concept:made_of	Predicted MRR	1.0
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	__TIMESTAMP__	1.545073544E12
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MMAP Predicted	0.8635136518400511
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MMRR Predicted	0.9458333333333333
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MMAP	0.6081660900030591
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MMRR	0.6770833333333333
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MAP	0.28057241942866284
+robot/robot_sfe_bfs_pra_anyrel	__DATASET__	MRR	0.6333333333333334
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	Per Query MRR	0.75
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	__TIMESTAMP__	1.545073544E12
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	% no predictions	0.25
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	RR	0.3333333333333333
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	Predicted MAP	0.9666666666666667
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	Per Query MAP	0.725
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	AP	0.39849201258201117
+robot/robot_sfe_bfs_pra_anyrel	concept:used_for	Predicted MRR	1.0
+robot/robot_sfe_bfs_pra	__DISPLAY_NAME__	robot_sfe_bfs_pra	1.0
+robot/robot_sfe_bfs_pra	concept:on	Per Query MRR	0.7777777777777778
+robot/robot_sfe_bfs_pra	concept:on	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra	concept:on	% no predictions	0.16666666666666666
+robot/robot_sfe_bfs_pra	concept:on	RR	1.0
+robot/robot_sfe_bfs_pra	concept:on	Predicted MAP	0.8052891928203847
+robot/robot_sfe_bfs_pra	concept:on	Per Query MAP	0.6710743273503206
+robot/robot_sfe_bfs_pra	concept:on	AP	0.3634365921740163
+robot/robot_sfe_bfs_pra	concept:on	Predicted MRR	0.9333333333333333
+robot/robot_sfe_bfs_pra	concept:in	Per Query MRR	0.8333333333333334
+robot/robot_sfe_bfs_pra	concept:in	__TIMESTAMP__	1.545073542E12
+robot/robot_sfe_bfs_pra	concept:in	% no predictions	0.0
+robot/robot_sfe_bfs_pra	concept:in	RR	0.2
+robot/robot_sfe_bfs_pra	concept:in	Predicted MAP	0.8124005760312782
+robot/robot_sfe_bfs_pra	concept:in	Per Query MAP	0.8124005760312782
+robot/robot_sfe_bfs_pra	concept:in	AP	0.34190945044940907
+robot/robot_sfe_bfs_pra	concept:in	Predicted MRR	0.8333333333333334
+robot/robot_sfe_bfs_pra	concept:made_of	Per Query MRR	0.3333333333333333
+robot/robot_sfe_bfs_pra	concept:made_of	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra	concept:made_of	% no predictions	0.6666666666666666
+robot/robot_sfe_bfs_pra	concept:made_of	RR	1.0
+robot/robot_sfe_bfs_pra	concept:made_of	Predicted MAP	1.0
+robot/robot_sfe_bfs_pra	concept:made_of	Per Query MAP	0.3333333333333333
+robot/robot_sfe_bfs_pra	concept:made_of	AP	0.10297619047619049
+robot/robot_sfe_bfs_pra	concept:made_of	Predicted MRR	1.0
+robot/robot_sfe_bfs_pra	__DATASET__	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra	__DATASET__	MMAP Predicted	0.8615652993557728
+robot/robot_sfe_bfs_pra	__DATASET__	MMRR Predicted	0.905952380952381
+robot/robot_sfe_bfs_pra	__DATASET__	MMAP	0.635452059178733
+robot/robot_sfe_bfs_pra	__DATASET__	MMRR	0.6736111111111112
+robot/robot_sfe_bfs_pra	__DATASET__	MAP	0.3017035614204068
+robot/robot_sfe_bfs_pra	__DATASET__	MRR	0.6333333333333334
+robot/robot_sfe_bfs_pra	concept:used_for	Per Query MRR	0.75
+robot/robot_sfe_bfs_pra	concept:used_for	__TIMESTAMP__	1.545073543E12
+robot/robot_sfe_bfs_pra	concept:used_for	% no predictions	0.125
+robot/robot_sfe_bfs_pra	concept:used_for	RR	0.3333333333333333
+robot/robot_sfe_bfs_pra	concept:used_for	Predicted MAP	0.8285714285714285
+robot/robot_sfe_bfs_pra	concept:used_for	Per Query MAP	0.725
+robot/robot_sfe_bfs_pra	concept:used_for	AP	0.39849201258201117
+robot/robot_sfe_bfs_pra	concept:used_for	Predicted MRR	0.8571428571428571

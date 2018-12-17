@@ -1,0 +1,472 @@
+concept:object:hanger.n.02	concept:location:counter.n.01	0.9086165386753863	
+concept:object:hanger.n.02	concept:location:cabinet.n.01	0.9048307422176524	
+concept:object:hanger.n.02	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:hanger.n.02	concept:location:towel.n.01	0.46859756690065946	
+concept:object:hanger.n.02	concept:location:plate.n.04	0.46859756690065946	
+concept:object:hanger.n.02	concept:location:aluminum_foil.n.01	0.20928298657074046	
+concept:object:hanger.n.02	concept:location:fork.n.01	0.10791089777807183	
+
+concept:object:cabinet.n.01	concept:location:box.n.01	-0.3370967522051963	
+
+concept:object:cutting_board.n.01	concept:location:napkin.n.01	0.9048307422176524	
+concept:object:cutting_board.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:cutting_board.n.01	concept:location:omelet.n.01	0.7097723683008864	
+concept:object:cutting_board.n.01	concept:location:plate.n.04	0.46859756690065946	
+
+concept:object:cellphone.n.01	concept:location:bowl.n.01	0.7097723683008864	
+concept:object:cellphone.n.01	concept:location:sink.n.01	0.7097723683008864	
+concept:object:cellphone.n.01	concept:location:skillet.n.01	0.7097723683008864	
+concept:object:cellphone.n.01	concept:location:microwave.n.02	0.7024391844226044	
+concept:object:cellphone.n.01	concept:location:lettuce.n.02	0.2326104954037599	
+concept:object:cellphone.n.01	concept:location:pot.n.01	-0.03934028960019613	
+concept:object:cellphone.n.01	concept:location:mug.n.04	-0.0466734734784781	
+concept:object:cellphone.n.01	concept:location:plate.n.04	-0.34415905858202045	
+concept:object:cellphone.n.01	concept:location:lid.n.02	-1.093271716483103	
+
+concept:object:sandwich.n.01	concept:location:tomato.n.01	1.7944797787875222	
+
+concept:object:rolling_pin.n.01	concept:location:scrub_brush.n.01	1.7944797787875222	
+concept:object:rolling_pin.n.01	concept:location:basket.n.01	0.9048307422176524	
+concept:object:rolling_pin.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:rolling_pin.n.01	concept:location:book.n.01	0.46859756690065946	
+concept:object:rolling_pin.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:rolling_pin.n.01	concept:location:kitchen_stove.n.01	0.11110365645275196	
+concept:object:rolling_pin.n.01	concept:location:water_bottle.n.01	-0.23016102388172038	
+
+concept:object:potato.n.01	concept:location:pot.n.01	2.7370694444381716	
+concept:object:potato.n.01	concept:location:scrub_brush.n.01	1.7944797787875222	
+concept:object:potato.n.01	concept:location:sink.n.01	1.4369858683396144	
+
+concept:object:omelet.n.01	concept:location:napkin.n.01	1.4369858683396144	
+concept:object:omelet.n.01	concept:location:jar.n.01	1.4369858683396144	
+concept:object:omelet.n.01	concept:location:cup.n.01	1.4369858683396144	
+
+concept:object:soap.n.01	concept:location:table.n.02	2.0546841199055286	
+concept:object:soap.n.01	concept:location:box.n.01	1.4369858683396144	
+
+concept:object:napkin.n.01	concept:location:trash_can.n.01	2.20491431831621	
+concept:object:napkin.n.01	concept:location:box.n.01	2.20491431831621	
+concept:object:napkin.n.01	concept:location:coffee_maker.n.01	1.095721188005142	
+concept:object:napkin.n.01	concept:location:can.n.01	0.9048307422176524	
+concept:object:napkin.n.01	concept:location:cutting_board.n.01	0.46859756690065946	
+concept:object:napkin.n.01	concept:location:water_bottle.n.01	0.28296456252246244	
+concept:object:napkin.n.01	concept:location:mug.n.04	0.11110365645275196	
+
+concept:object:bowl.n.01	concept:location:sink.n.01	2.20491431831621	*
+concept:object:bowl.n.01	concept:location:egg.n.02	1.7944797787875222	
+concept:object:bowl.n.01	concept:location:kitchen_stove.n.01	0.9048307422176524	*
+concept:object:bowl.n.01	concept:location:omelet.n.01	0.9048307422176524	
+concept:object:bowl.n.01	concept:location:jar.n.01	0.9048307422176524	
+concept:object:bowl.n.01	concept:location:knob.n.02	0.46859756690065946	
+concept:object:bowl.n.01	concept:location:book.n.01	0.46859756690065946	
+concept:object:bowl.n.01	concept:location:spoon.n.01	0.46859756690065946	
+concept:object:bowl.n.01	concept:location:sandwich.n.01	0.11110365645275196	
+concept:object:bowl.n.01	concept:location:watering_can.n.01	-0.08395471746401399	
+
+concept:object:knife.n.01	concept:location:skillet.n.01	2.20491431831621	*
+concept:object:knife.n.01	concept:location:napkin.n.01	2.20491431831621	*
+concept:object:knife.n.01	concept:location:bowl.n.01	2.20491431831621	*
+concept:object:knife.n.01	concept:location:sink.n.01	2.20491431831621	*
+concept:object:knife.n.01	concept:location:container.n.01	2.20491431831621	*
+concept:object:knife.n.01	concept:location:tomato.n.01	1.7944797787875222	*
+concept:object:knife.n.01	concept:location:hanger.n.02	0.9817231533048424	
+concept:object:knife.n.01	concept:location:table.n.02	0.9048307422176524	*
+concept:object:knife.n.01	concept:location:counter.n.01	0.9048307422176524	*
+concept:object:knife.n.01	concept:location:box.n.01	0.9048307422176524	*
+concept:object:knife.n.01	concept:location:kitchen_stove.n.01	0.9048307422176524	*
+concept:object:knife.n.01	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:knife.n.01	concept:location:basket.n.01	0.9048307422176524	
+concept:object:knife.n.01	concept:location:bread.n.01	0.46859756690065946	*
+concept:object:knife.n.01	concept:location:plate.n.04	0.46859756690065946	*
+concept:object:knife.n.01	concept:location:dish.n.01	0.46859756690065946	*
+concept:object:knife.n.01	concept:location:cutting_board.n.01	0.46859756690065946	*
+concept:object:knife.n.01	concept:location:knife.n.01	0.46859756690065946	*
+concept:object:knife.n.01	concept:location:spoon.n.01	0.46859756690065946	
+concept:object:knife.n.01	concept:location:sandwich.n.01	0.11110365645275196	*
+concept:object:knife.n.01	concept:location:toaster.n.02	0.11110365645275196	
+concept:object:knife.n.01	concept:location:potato.n.01	-0.34415905858202045	*
+concept:object:knife.n.01	concept:location:candle.n.01	-0.34415905858202045	
+
+concept:object:toaster.n.02	concept:location:scrub_brush.n.01	1.1097993270236701	
+concept:object:toaster.n.02	concept:location:refrigerator.n.01	0.9048307422176524	
+concept:object:toaster.n.02	concept:location:coffee_maker.n.01	0.567351858340914	
+concept:object:toaster.n.02	concept:location:cup.n.01	0.45840817663277744	
+
+concept:object:tomato.n.01	concept:location:can.n.01	2.7370694444381716	
+concept:object:tomato.n.01	concept:location:toaster.n.02	1.4369858683396144	
+
+concept:object:lettuce.n.02	concept:location:box.n.01	1.4369858683396144	
+concept:object:lettuce.n.02	concept:location:aluminum_foil.n.01	1.4369858683396144	
+concept:object:lettuce.n.02	concept:location:pot.n.01	1.4369858683396144	
+concept:object:lettuce.n.02	concept:location:hanger.n.02	0.9817231533048424	
+
+concept:object:towel.n.01	concept:location:scrub_brush.n.01	1.4510640073581424	
+concept:object:towel.n.01	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:towel.n.01	concept:location:trash_can.n.01	0.9048307422176524	
+concept:object:towel.n.01	concept:location:refrigerator.n.01	0.09207411673497241	
+
+concept:object:candle.n.01	concept:location:chair.n.01	1.7944797787875222	
+concept:object:candle.n.01	concept:location:aluminum_foil.n.01	1.2419274944228484	
+concept:object:candle.n.01	concept:location:cutting_board.n.01	0.9817231533048424	
+
+concept:object:counter.n.01	concept:location:sandwich.n.01	0.9586083031545182	
+concept:object:counter.n.01	concept:location:drinking_glass.n.01	0.5979216340319305	
+concept:object:counter.n.01	concept:location:skillet.n.01	0.3409100515886042	
+concept:object:counter.n.01	concept:location:jar.n.01	0.14585167767183826	
+concept:object:counter.n.01	concept:location:mug.n.04	0.048026976299717694	
+concept:object:counter.n.01	concept:location:container.n.01	-0.19124507453335798	
+concept:object:counter.n.01	concept:location:box.n.01	-0.19124507453335798	
+
+concept:object:watering_can.n.01	concept:location:can.n.01	0.7097723683008864	
+concept:object:watering_can.n.01	concept:location:container.n.01	0.7097723683008864	
+concept:object:watering_can.n.01	concept:location:drinking_glass.n.01	0.7024391844226044	
+concept:object:watering_can.n.01	concept:location:water_bottle.n.01	-0.18532680625668285	
+concept:object:watering_can.n.01	concept:location:fork.n.01	-0.34415905858202045	
+concept:object:watering_can.n.01	concept:location:plate.n.04	-0.34415905858202045	
+concept:object:watering_can.n.01	concept:location:towel.n.01	-0.34415905858202045	
+concept:object:watering_can.n.01	concept:location:knife.n.01	-0.34415905858202045	
+concept:object:watering_can.n.01	concept:location:book.n.01	-0.6875748300114002	
+
+concept:object:dish.n.01	concept:location:box.n.01	2.20491431831621	
+concept:object:dish.n.01	concept:location:egg.n.02	1.7944797787875222	
+concept:object:dish.n.01	concept:location:mug.n.04	0.9048307422176524	
+concept:object:dish.n.01	concept:location:cup.n.01	0.9048307422176524	
+concept:object:dish.n.01	concept:location:book.n.01	0.46859756690065946	
+concept:object:dish.n.01	concept:location:teapot.n.01	0.11110365645275196	
+
+concept:object:water.n.06	concept:location:cup.n.01	2.7370694444381716	*
+concept:object:water.n.06	concept:location:sink.n.01	2.7370694444381716	*
+concept:object:water.n.06	concept:location:container.n.01	2.7370694444381716	
+concept:object:water.n.06	concept:location:spoon.n.01	1.7944797787875222	*
+concept:object:water.n.06	concept:location:soap.n.01	1.7944797787875222	*
+concept:object:water.n.06	concept:location:tomato.n.01	1.7944797787875222	*
+concept:object:water.n.06	concept:location:scrub_brush.n.01	1.7944797787875222	*
+concept:object:water.n.06	concept:location:table.n.02	1.4369858683396144	*
+concept:object:water.n.06	concept:location:counter.n.01	1.4369858683396144	*
+
+concept:object:book.n.01	concept:location:water_bottle.n.01	1.1405554056301799	
+concept:object:book.n.01	concept:location:microwave.n.02	0.7097723683008864	
+concept:object:book.n.01	concept:location:pot.n.01	-0.08395471746401399	
+concept:object:book.n.01	concept:location:mug.n.04	-0.08395471746401399	
+concept:object:book.n.01	concept:location:bowl.n.01	-0.08395471746401399	
+concept:object:book.n.01	concept:location:bread.n.01	-0.34415905858202045	
+
+concept:object:lid.n.02	concept:location:sink.n.01	2.20491431831621	
+concept:object:lid.n.02	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:lid.n.02	concept:location:plate.n.04	0.46859756690065946	
+concept:object:lid.n.02	concept:location:spoon.n.01	0.46859756690065946	
+
+concept:object:scrub_brush.n.01	concept:location:drinking_glass.n.01	1.3921576928335297	
+concept:object:scrub_brush.n.01	concept:location:egg.n.02	0.9817231533048424	
+concept:object:scrub_brush.n.01	concept:location:cup.n.01	0.9048307422176524	
+concept:object:scrub_brush.n.01	concept:location:chair.n.01	0.46859756690065946	
+concept:object:scrub_brush.n.01	concept:location:aluminum_foil.n.01	-0.08395471746401399	
+concept:object:scrub_brush.n.01	concept:location:candle.n.01	-0.34415905858202045	
+
+concept:object:water_bottle.n.01	concept:location:box.n.01	2.20491431831621	
+concept:object:water_bottle.n.01	concept:location:hanger.n.02	0.6404584729703701	
+concept:object:water_bottle.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:water_bottle.n.01	concept:location:can.n.01	0.09207411673497241	
+concept:object:water_bottle.n.01	concept:location:pot.n.01	0.09207411673497241	
+concept:object:water_bottle.n.01	concept:location:knife.n.01	-0.34415905858202045	
+
+concept:object:trash_can.n.01	concept:location:toaster.n.02	-1.3258822118868627	
+
+concept:object:mug.n.04	concept:location:bread.n.01	0.9817231533048424	
+concept:object:mug.n.04	concept:location:trash_can.n.01	0.09207411673497241	
+concept:object:mug.n.04	concept:location:coffee_maker.n.01	0.09207411673497241	
+concept:object:mug.n.04	concept:location:skillet.n.01	-0.7016529690299279	
+
+concept:object:tissue_paper.n.01	concept:location:aluminum_foil.n.01	1.2419274944228484	
+concept:object:tissue_paper.n.01	concept:location:sandwich.n.01	1.2419274944228484	
+concept:object:tissue_paper.n.01	concept:location:lettuce.n.02	0.9817231533048424	
+concept:object:tissue_paper.n.01	concept:location:toaster.n.02	-0.08395471746401399	
+
+concept:object:knob.n.02	concept:location:mug.n.04	-0.38630344845012393	
+concept:object:knob.n.02	concept:location:omelet.n.01	-0.38630344845012393	
+concept:object:knob.n.02	concept:location:counter.n.01	-0.38630344845012393	
+concept:object:knob.n.02	concept:location:fork.n.01	-1.4366874879124827	
+concept:object:knob.n.02	concept:location:knife.n.01	-1.4366874879124827	
+concept:object:knob.n.02	concept:location:book.n.01	-1.4366874879124827	
+
+concept:object:oven.n.01	concept:location:table.n.02	-0.3370967522051963	
+concept:object:oven.n.01	concept:location:bowl.n.01	-0.3370967522051963	
+concept:object:oven.n.01	concept:location:skillet.n.01	-0.3370967522051963	
+concept:object:oven.n.01	concept:location:fork.n.01	-0.5131255864041829	
+concept:object:oven.n.01	concept:location:soap.n.01	-0.5131255864041829	
+concept:object:oven.n.01	concept:location:toaster.n.02	-1.1308238379700968	
+
+concept:object:spoon.n.01	concept:location:chair.n.01	0.46859756690065946	
+
+concept:object:kitchen_stove.n.01	concept:location:cabinet.n.01	-0.3370967522051963	
+concept:object:kitchen_stove.n.01	concept:location:jar.n.01	-0.3370967522051963	
+concept:object:kitchen_stove.n.01	concept:location:basket.n.01	-0.3370967522051963	
+concept:object:kitchen_stove.n.01	concept:location:oven.n.01	-0.3370967522051963	
+concept:object:kitchen_stove.n.01	concept:location:plate.n.04	-0.5131255864041829	
+concept:object:kitchen_stove.n.01	concept:location:dish.n.01	-0.5131255864041829	
+
+concept:object:credit_card.n.01	concept:location:skillet.n.01	0.7097723683008864	
+concept:object:credit_card.n.01	concept:location:sandwich.n.01	-0.08395471746401399	
+concept:object:credit_card.n.01	concept:location:kitchen_stove.n.01	-0.08395471746401399	
+concept:object:credit_card.n.01	concept:location:tomato.n.01	-0.34415905858202045	
+concept:object:credit_card.n.01	concept:location:plate.n.04	-0.34415905858202045	
+concept:object:credit_card.n.01	concept:location:water_bottle.n.01	-0.9271062802794834	
+
+concept:object:lamp.n.02	concept:location:hanger.n.02	0.9817231533048424	
+concept:object:lamp.n.02	concept:location:pot.n.01	0.7097723683008864	
+concept:object:lamp.n.02	concept:location:basket.n.01	0.7097723683008864	
+concept:object:lamp.n.02	concept:location:trash_can.n.01	0.7097723683008864	
+concept:object:lamp.n.02	concept:location:can.n.01	0.7097723683008864	
+concept:object:lamp.n.02	concept:location:coffee_maker.n.01	0.7024391844226044	
+concept:object:lamp.n.02	concept:location:mug.n.04	0.6157334633864997	
+concept:object:lamp.n.02	concept:location:omelet.n.01	0.37014239332924054	
+concept:object:lamp.n.02	concept:location:dish.n.01	-0.34415905858202045	
+concept:object:lamp.n.02	concept:location:book.n.01	-0.34415905858202045	
+concept:object:lamp.n.02	concept:location:toaster.n.02	-0.42358469243566005	
+
+concept:object:bag.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:bag.n.01	concept:location:box.n.01	0.9048307422176524	
+concept:object:bag.n.01	concept:location:sandwich.n.01	0.7288019080186657	
+concept:object:bag.n.01	concept:location:cup.n.01	0.7097723683008864	
+concept:object:bag.n.01	concept:location:plate.n.04	0.46859756690065946	
+concept:object:bag.n.01	concept:location:potato.n.01	0.46859756690065946	
+
+concept:object:drinking_glass.n.01	concept:location:counter.n.01	2.20491431831621	*
+concept:object:drinking_glass.n.01	concept:location:sink.n.01	2.20491431831621	*
+concept:object:drinking_glass.n.01	concept:location:refrigerator.n.01	2.20491431831621	
+concept:object:drinking_glass.n.01	concept:location:table.n.02	1.522528993783566	*
+concept:object:drinking_glass.n.01	concept:location:napkin.n.01	1.522528993783566	*
+concept:object:drinking_glass.n.01	concept:location:kitchen_stove.n.01	1.522528993783566	
+concept:object:drinking_glass.n.01	concept:location:drinking_glass.n.01	1.3921576928335297	
+concept:object:drinking_glass.n.01	concept:location:microwave.n.02	0.9048307422176524	*
+concept:object:drinking_glass.n.01	concept:location:cup.n.01	0.9048307422176524	
+concept:object:drinking_glass.n.01	concept:location:towel.n.01	0.46859756690065946	*
+concept:object:drinking_glass.n.01	concept:location:pot.n.01	0.09207411673497241	
+concept:object:drinking_glass.n.01	concept:location:coffee_maker.n.01	0.09207411673497241	
+concept:object:drinking_glass.n.01	concept:location:sandwich.n.01	-0.08395471746401399	
+concept:object:drinking_glass.n.01	concept:location:knife.n.01	-0.34415905858202045	
+
+concept:object:switch.n.01	concept:location:lettuce.n.02	-0.11080527602561985	
+concept:object:switch.n.01	concept:location:microwave.n.02	-0.38630344845012393	*
+concept:object:switch.n.01	concept:location:oven.n.01	-0.38630344845012393	*
+concept:object:switch.n.01	concept:location:refrigerator.n.01	-0.38630344845012393	*
+concept:object:switch.n.01	concept:location:skillet.n.01	-0.38630344845012393	
+concept:object:switch.n.01	concept:location:box.n.01	-0.38630344845012393	
+concept:object:switch.n.01	concept:location:container.n.01	-0.38630344845012393	
+concept:object:switch.n.01	concept:location:drinking_glass.n.01	-0.7275681287845962	
+concept:object:switch.n.01	concept:location:toaster.n.02	-1.1800305342150246	*
+concept:object:switch.n.01	concept:location:kitchen_stove.n.01	-1.1800305342150246	*
+concept:object:switch.n.01	concept:location:plate.n.04	-1.4366874879124827	
+concept:object:switch.n.01	concept:location:cutting_board.n.01	-1.4366874879124827	
+concept:object:switch.n.01	concept:location:coffee_maker.n.01	-1.521295214549497	*
+concept:object:switch.n.01	concept:location:potato.n.01	-1.777952168246955	
+
+concept:object:container.n.01	concept:location:microwave.n.02	2.20491431831621	*
+concept:object:container.n.01	concept:location:oven.n.01	2.20491431831621	*
+concept:object:container.n.01	concept:location:cabinet.n.01	2.20491431831621	*
+concept:object:container.n.01	concept:location:table.n.02	0.9048307422176524	*
+concept:object:container.n.01	concept:location:counter.n.01	0.9048307422176524	*
+concept:object:container.n.01	concept:location:kitchen_stove.n.01	0.9048307422176524	*
+concept:object:container.n.01	concept:location:container.n.01	0.9048307422176524	*
+concept:object:container.n.01	concept:location:can.n.01	0.9048307422176524	
+concept:object:container.n.01	concept:location:chair.n.01	0.46859756690065946	*
+concept:object:container.n.01	concept:location:cutting_board.n.01	0.46859756690065946	*
+concept:object:container.n.01	concept:location:knife.n.01	0.46859756690065946	
+concept:object:container.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:container.n.01	concept:location:potato.n.01	0.46859756690065946	
+concept:object:container.n.01	concept:location:bread.n.01	0.46859756690065946	
+concept:object:container.n.01	concept:location:toaster.n.02	0.11110365645275196	*
+
+concept:object:table.n.02	concept:location:omelet.n.01	0.19505837391676595	
+concept:object:table.n.02	concept:location:sink.n.01	-0.3370967522051963	
+
+concept:object:can.n.01	concept:location:toaster.n.02	0.7288019080186657	
+concept:object:can.n.01	concept:location:sandwich.n.01	0.7288019080186657	
+concept:object:can.n.01	concept:location:tomato.n.01	0.46859756690065946	
+concept:object:can.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:can.n.01	concept:location:bread.n.01	0.46859756690065946	
+
+concept:object:aluminum_foil.n.01	concept:location:counter.n.01	2.20491431831621	*
+concept:object:aluminum_foil.n.01	concept:location:container.n.01	2.20491431831621	*
+concept:object:aluminum_foil.n.01	concept:location:cabinet.n.01	2.20491431831621	
+concept:object:aluminum_foil.n.01	concept:location:scrub_brush.n.01	1.7944797787875222	
+concept:object:aluminum_foil.n.01	concept:location:skillet.n.01	0.9048307422176524	*
+concept:object:aluminum_foil.n.01	concept:location:table.n.02	0.9048307422176524	*
+concept:object:aluminum_foil.n.01	concept:location:oven.n.01	0.9048307422176524	*
+concept:object:aluminum_foil.n.01	concept:location:kitchen_stove.n.01	0.9048307422176524	*
+concept:object:aluminum_foil.n.01	concept:location:box.n.01	0.9048307422176524	
+concept:object:aluminum_foil.n.01	concept:location:sink.n.01	0.9048307422176524	
+concept:object:aluminum_foil.n.01	concept:location:spoon.n.01	0.46859756690065946	*
+concept:object:aluminum_foil.n.01	concept:location:plate.n.04	0.46859756690065946	*
+concept:object:aluminum_foil.n.01	concept:location:dish.n.01	0.46859756690065946	*
+concept:object:aluminum_foil.n.01	concept:location:towel.n.01	0.46859756690065946	*
+concept:object:aluminum_foil.n.01	concept:location:cutting_board.n.01	0.46859756690065946	*
+concept:object:aluminum_foil.n.01	concept:location:chair.n.01	0.46859756690065946	
+concept:object:aluminum_foil.n.01	concept:location:candle.n.01	0.12733288656618713	
+concept:object:aluminum_foil.n.01	concept:location:sandwich.n.01	0.11110365645275196	*
+concept:object:aluminum_foil.n.01	concept:location:potato.n.01	-0.34415905858202045	*
+
+concept:object:chair.n.01	concept:location:omelet.n.01	-0.5321551261219623	
+concept:object:chair.n.01	concept:location:cabinet.n.01	-0.6303344562399509	
+concept:object:chair.n.01	concept:location:plate.n.04	-0.9651955427642751	
+
+concept:object:fork.n.01	concept:location:omelet.n.01	3.530796530203072	*
+concept:object:fork.n.01	concept:location:skillet.n.01	2.20491431831621	*
+concept:object:fork.n.01	concept:location:table.n.02	2.20491431831621	*
+concept:object:fork.n.01	concept:location:napkin.n.01	2.20491431831621	*
+concept:object:fork.n.01	concept:location:bowl.n.01	2.20491431831621	*
+concept:object:fork.n.01	concept:location:sink.n.01	2.20491431831621	*
+concept:object:fork.n.01	concept:location:pot.n.01	2.20491431831621	
+concept:object:fork.n.01	concept:location:counter.n.01	0.9048307422176524	*
+concept:object:fork.n.01	concept:location:kitchen_stove.n.01	0.9048307422176524	*
+concept:object:fork.n.01	concept:location:cup.n.01	0.9048307422176524	
+concept:object:fork.n.01	concept:location:plate.n.04	0.46859756690065946	*
+concept:object:fork.n.01	concept:location:dish.n.01	0.46859756690065946	*
+concept:object:fork.n.01	concept:location:towel.n.01	0.46859756690065946	*
+concept:object:fork.n.01	concept:location:cutting_board.n.01	0.46859756690065946	*
+concept:object:fork.n.01	concept:location:fork.n.01	0.46859756690065946	*
+concept:object:fork.n.01	concept:location:aluminum_foil.n.01	0.11110365645275196	
+concept:object:fork.n.01	concept:location:watering_can.n.01	-0.08395471746401399	
+
+concept:object:bread.n.01	concept:location:bowl.n.01	1.4369858683396144	
+concept:object:bread.n.01	concept:location:jar.n.01	1.4369858683396144	
+concept:object:bread.n.01	concept:location:cellphone.n.01	-0.10865418493071244	
+
+concept:object:basket.n.01	concept:location:egg.n.02	0.9817231533048424	
+concept:object:basket.n.01	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:basket.n.01	concept:location:bread.n.01	0.46859756690065946	
+concept:object:basket.n.01	concept:location:tomato.n.01	-0.6875748300114002	
+
+concept:object:jar.n.01	concept:location:hanger.n.02	0.9817231533048424	
+concept:object:jar.n.01	concept:location:sandwich.n.01	0.7288019080186657	
+concept:object:jar.n.01	concept:location:towel.n.01	0.46859756690065946	
+concept:object:jar.n.01	concept:location:tomato.n.01	0.46859756690065946	
+concept:object:jar.n.01	concept:location:potato.n.01	0.46859756690065946	
+concept:object:jar.n.01	concept:location:coffee_maker.n.01	0.09207411673497241	
+
+concept:object:box.n.01	concept:location:trash_can.n.01	2.20491431831621	*
+concept:object:box.n.01	concept:location:table.n.02	1.522528993783566	*
+concept:object:box.n.01	concept:location:napkin.n.01	1.522528993783566	
+concept:object:box.n.01	concept:location:counter.n.01	0.9048307422176524	*
+concept:object:box.n.01	concept:location:box.n.01	0.9048307422176524	*
+concept:object:box.n.01	concept:location:container.n.01	0.9048307422176524	*
+concept:object:box.n.01	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:box.n.01	concept:location:knob.n.02	0.46859756690065946	
+concept:object:box.n.01	concept:location:tissue_paper.n.01	-0.34415905858202045	
+concept:object:box.n.01	concept:location:hanger.n.02	-0.34415905858202045	
+concept:object:box.n.01	concept:location:tomato.n.01	-0.34415905858202045	
+concept:object:box.n.01	concept:location:book.n.01	-0.34415905858202045	
+
+concept:object:vacuum.n.04	concept:location:cabinet.n.01	-0.3370967522051963	
+concept:object:vacuum.n.04	concept:location:bowl.n.01	-0.3370967522051963	
+
+concept:object:pot.n.01	concept:location:oven.n.01	2.20491431831621	*
+concept:object:pot.n.01	concept:location:counter.n.01	2.20491431831621	*
+concept:object:pot.n.01	concept:location:sink.n.01	2.20491431831621	*
+concept:object:pot.n.01	concept:location:kitchen_stove.n.01	2.20491431831621	*
+concept:object:pot.n.01	concept:location:table.n.02	0.9048307422176524	*
+concept:object:pot.n.01	concept:location:napkin.n.01	0.9048307422176524	*
+concept:object:pot.n.01	concept:location:box.n.01	0.9048307422176524	*
+concept:object:pot.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:pot.n.01	concept:location:mug.n.04	0.9048307422176524	
+concept:object:pot.n.01	concept:location:container.n.01	0.9048307422176524	
+concept:object:pot.n.01	concept:location:plate.n.04	0.46859756690065946	*
+concept:object:pot.n.01	concept:location:towel.n.01	0.46859756690065946	*
+concept:object:pot.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:pot.n.01	concept:location:fork.n.01	0.46859756690065946	
+concept:object:pot.n.01	concept:location:cutting_board.n.01	0.46859756690065946	
+concept:object:pot.n.01	concept:location:faucet.n.01	-1.7920303072654828	
+
+concept:object:coffee_maker.n.01	concept:location:napkin.n.01	1.522528993783566	
+concept:object:coffee_maker.n.01	concept:location:skillet.n.01	1.522528993783566	
+concept:object:coffee_maker.n.01	concept:location:sink.n.01	0.9048307422176524	
+concept:object:coffee_maker.n.01	concept:location:refrigerator.n.01	0.9048307422176524	
+concept:object:coffee_maker.n.01	concept:location:scrub_brush.n.01	0.6383073818754627	
+concept:object:coffee_maker.n.01	concept:location:watering_can.n.01	-0.5287425776860626	
+
+concept:object:cup.n.01	concept:location:basket.n.01	2.20491431831621	
+concept:object:cup.n.01	concept:location:refrigerator.n.01	2.20491431831621	
+concept:object:cup.n.01	concept:location:jar.n.01	0.9048307422176524	
+concept:object:cup.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:cup.n.01	concept:location:toaster.n.02	0.7288019080186657	
+concept:object:cup.n.01	concept:location:coffee_maker.n.01	0.09207411673497241	
+concept:object:cup.n.01	concept:location:trash_can.n.01	0.09207411673497241	
+concept:object:cup.n.01	concept:location:hanger.n.02	-0.34415905858202045	
+concept:object:cup.n.01	concept:location:potato.n.01	-0.34415905858202045	
+
+concept:object:apple.n.01	concept:location:cabinet.n.01	1.4369858683396144	
+
+concept:object:teapot.n.01	concept:location:sink.n.01	2.20491431831621	
+concept:object:teapot.n.01	concept:location:skillet.n.01	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:cup.n.01	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:bowl.n.01	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:coffee_maker.n.01	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:omelet.n.01	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:microwave.n.02	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:mug.n.04	0.9048307422176524	
+concept:object:teapot.n.01	concept:location:sandwich.n.01	0.11110365645275196	
+concept:object:teapot.n.01	concept:location:toaster.n.02	-0.08395471746401399	
+
+concept:object:egg.n.02	concept:location:refrigerator.n.01	2.7370694444381716	
+concept:object:egg.n.02	concept:location:container.n.01	2.7370694444381716	
+
+concept:object:alarm_clock.n.01	concept:location:scrub_brush.n.01	-0.11080527602561985	
+concept:object:alarm_clock.n.01	concept:location:table.n.02	-0.19124507453335798	*
+concept:object:alarm_clock.n.01	concept:location:counter.n.01	-0.19124507453335798	*
+concept:object:alarm_clock.n.01	concept:location:cabinet.n.01	-0.19124507453335798	*
+concept:object:alarm_clock.n.01	concept:location:kitchen_stove.n.01	-0.19124507453335798	*
+concept:object:alarm_clock.n.01	concept:location:skillet.n.01	-0.19124507453335798	
+concept:object:alarm_clock.n.01	concept:location:oven.n.01	-0.19124507453335798	
+concept:object:alarm_clock.n.01	concept:location:can.n.01	-0.38630344845012393	
+concept:object:alarm_clock.n.01	concept:location:chair.n.01	-0.6239308624298028	
+concept:object:alarm_clock.n.01	concept:location:book.n.01	-1.4366874879124827	*
+
+concept:object:refrigerator.n.01	concept:location:counter.n.01	-0.3370967522051963	
+
+concept:object:sink.n.01	concept:location:counter.n.01	2.20491431831621	
+concept:object:sink.n.01	concept:location:skillet.n.01	0.8974975583393704	
+concept:object:sink.n.01	concept:location:cabinet.n.01	0.758979064545814	*
+concept:object:sink.n.01	concept:location:lid.n.02	0.46859756690065946	
+concept:object:sink.n.01	concept:location:spoon.n.01	0.46859756690065946	
+
+concept:object:plate.n.04	concept:location:microwave.n.02	2.20491431831621	
+concept:object:plate.n.04	concept:location:trash_can.n.01	2.20491431831621	
+concept:object:plate.n.04	concept:location:sink.n.01	2.20491431831621	
+concept:object:plate.n.04	concept:location:basket.n.01	0.9048307422176524	
+concept:object:plate.n.04	concept:location:skillet.n.01	0.9048307422176524	
+concept:object:plate.n.04	concept:location:bread.n.01	0.46859756690065946	
+concept:object:plate.n.04	concept:location:chair.n.01	0.46859756690065946	
+concept:object:plate.n.04	concept:location:coffee_maker.n.01	0.09207411673497241	
+concept:object:plate.n.04	concept:location:teapot.n.01	-0.08395471746401399	
+concept:object:plate.n.04	concept:location:candle.n.01	-0.34415905858202045	
+concept:object:plate.n.04	concept:location:hanger.n.02	-0.34415905858202045	
+
+concept:object:microwave.n.02	concept:location:box.n.01	0.9048307422176524	
+concept:object:microwave.n.02	concept:location:dish.n.01	0.46859756690065946	
+concept:object:microwave.n.02	concept:location:fork.n.01	0.46859756690065946	
+concept:object:microwave.n.02	concept:location:chair.n.01	0.46859756690065946	
+concept:object:microwave.n.02	concept:location:potato.n.01	0.12518179547127972	
+concept:object:microwave.n.02	concept:location:toaster.n.02	-0.08395471746401399	
+
+concept:object:skillet.n.01	concept:location:mug.n.04	0.9048307422176524	
+concept:object:skillet.n.01	concept:location:toaster.n.02	0.7288019080186657	
+concept:object:skillet.n.01	concept:location:drinking_glass.n.01	0.5614149707882726	
+concept:object:skillet.n.01	concept:location:potato.n.01	0.46859756690065946	
+concept:object:skillet.n.01	concept:location:cutting_board.n.01	0.46859756690065946	
+
+concept:object:soap_dispenser.n.01	concept:location:scrub_brush.n.01	1.7944797787875222	
+concept:object:soap_dispenser.n.01	concept:location:napkin.n.01	1.522528993783566	
+concept:object:soap_dispenser.n.01	concept:location:kitchen_stove.n.01	1.522528993783566	
+concept:object:soap_dispenser.n.01	concept:location:hanger.n.02	1.0453671208864397	
+concept:object:soap_dispenser.n.01	concept:location:coffee_maker.n.01	0.9048307422176524	
+concept:object:soap_dispenser.n.01	concept:location:mug.n.04	0.9048307422176524	
+concept:object:soap_dispenser.n.01	concept:location:book.n.01	0.46859756690065946	
+concept:object:soap_dispenser.n.01	concept:location:dish.n.01	0.46859756690065946	
+concept:object:soap_dispenser.n.01	concept:location:fork.n.01	-0.34415905858202045	
+
+concept:object:faucet.n.01	concept:location:pot.n.01	0.9048307422176524	
+concept:object:faucet.n.01	concept:location:book.n.01	0.46859756690065946	
+concept:object:faucet.n.01	concept:location:toaster.n.02	0.46859756690065946	
+concept:object:faucet.n.01	concept:location:towel.n.01	0.46859756690065946	
+concept:object:faucet.n.01	concept:location:sandwich.n.01	-0.2390011733316179	
+

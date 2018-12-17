@@ -1,0 +1,4 @@
+concept:in	concept:location
+concept:on	concept:location
+concept:used_for	concept:affordance
+concept:made_of	concept:material

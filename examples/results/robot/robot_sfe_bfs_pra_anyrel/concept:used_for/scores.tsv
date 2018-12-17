@@ -1,0 +1,227 @@
+concept:object:cutting_board.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:cutting_board.n.01	concept:affordance:frying.n,01	-0.46969793663860043	
+concept:object:cutting_board.n.01	concept:affordance:drinking.n.01	-0.8043587242349954	
+concept:object:cutting_board.n.01	concept:affordance:measurement.n.01	-0.8043587242349954	
+
+concept:object:cellphone.n.01	concept:affordance:burning.n.01	-0.8850447185429067	
+concept:object:cellphone.n.01	concept:affordance:toasting.n.01	-0.8850447185429067	
+
+concept:object:rolling_pin.n.01	concept:affordance:mixing.n.01	0.4559335691541928	
+concept:object:rolling_pin.n.01	concept:affordance:heating.n.01	0.4559335691541928	
+concept:object:rolling_pin.n.01	concept:affordance:cleaning.n.01	0.4559335691541928	
+concept:object:rolling_pin.n.01	concept:affordance:drinking.n.01	0.4559335691541928	
+concept:object:rolling_pin.n.01	concept:affordance:measurement.n.01	0.4559335691541928	
+concept:object:rolling_pin.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+
+concept:object:potato.n.01	concept:affordance:cutting.n.03	0.7905943567505881	
+concept:object:potato.n.01	concept:affordance:storage.n.01	0.7905943567505881	
+concept:object:potato.n.01	concept:affordance:roasting.n.01	0.7905943567505881	
+
+concept:object:omelet.n.01	concept:affordance:supporting.n.01	0.7905943567505881	
+
+concept:object:soap.n.01	concept:affordance:storage.n.01	0.7905943567505881	
+
+concept:object:napkin.n.01	concept:affordance:mixing.n.01	0.7905943567505881	
+concept:object:napkin.n.01	concept:affordance:frying.n,01	-0.46969793663860043	
+concept:object:napkin.n.01	concept:affordance:peeling.n.01	-0.46969793663860043	
+
+concept:object:bowl.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+concept:object:bowl.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+concept:object:bowl.n.01	concept:affordance:frying.n,01	0.4559335691541928	
+concept:object:bowl.n.01	concept:affordance:cutting.n.03	0.4559335691541928	
+
+concept:object:knife.n.01	concept:affordance:cutting.n.03	0.4559335691541928	*
+concept:object:knife.n.01	concept:affordance:slicing.n.02	0.4559335691541928	*
+concept:object:knife.n.01	concept:affordance:chopping.n.00	0.4559335691541928	*
+concept:object:knife.n.01	concept:affordance:peeling.n.01	0.4559335691541928	*
+concept:object:knife.n.01	concept:affordance:eating.n.01	0.4559335691541928	*
+concept:object:knife.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+concept:object:knife.n.01	concept:affordance:mixing.n.01	0.4559335691541928	
+concept:object:knife.n.01	concept:affordance:drinking.n.01	-0.8043587242349954	
+
+concept:object:toaster.n.02	concept:affordance:washing.n.01	0.4559335691541928	
+concept:object:toaster.n.02	concept:affordance:chopping.n.00	-0.8043587242349954	
+
+concept:object:towel.n.01	concept:affordance:cooking.n.01	0.7905943567505881	
+concept:object:towel.n.01	concept:affordance:cutting.n.03	-0.46969793663860043	
+concept:object:towel.n.01	concept:affordance:supporting.n.01	-0.8043587242349954	
+
+concept:object:counter.n.01	concept:affordance:baking.n.02	-0.8913138856663435	
+concept:object:counter.n.01	concept:affordance:drinking.n.01	-2.151606179055532	
+
+concept:object:watering_can.n.01	concept:affordance:frying.n,01	-0.8043587242349954	
+concept:object:watering_can.n.01	concept:affordance:heating.n.01	-2.151606179055532	
+
+concept:object:dish.n.01	concept:affordance:slicing.n.02	0.4559335691541928	
+concept:object:dish.n.01	concept:affordance:chopping.n.00	0.4559335691541928	
+concept:object:dish.n.01	concept:affordance:mixing.n.01	0.4559335691541928	
+concept:object:dish.n.01	concept:affordance:boiling.n.02	0.4559335691541928	
+concept:object:dish.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+
+concept:object:water.n.06	concept:affordance:cooking.n.01	0.7905943567505881	*
+concept:object:water.n.06	concept:affordance:boiling.n.02	0.7905943567505881	*
+concept:object:water.n.06	concept:affordance:cleaning.n.01	0.7905943567505881	*
+concept:object:water.n.06	concept:affordance:washing.n.01	0.7905943567505881	*
+concept:object:water.n.06	concept:affordance:drinking.n.01	0.7905943567505881	*
+
+concept:object:book.n.01	concept:affordance:baking.n.02	-0.46969793663860043	
+concept:object:book.n.01	concept:affordance:heating.n.01	-0.46969793663860043	
+concept:object:book.n.01	concept:affordance:supporting.n.01	-0.8043587242349954	
+concept:object:book.n.01	concept:affordance:washing.n.01	-0.8043587242349954	
+
+concept:object:lid.n.02	concept:affordance:cleaning.n.01	0.4559335691541928	
+concept:object:lid.n.02	concept:affordance:washing.n.01	0.4559335691541928	
+concept:object:lid.n.02	concept:affordance:drinking.n.01	0.4559335691541928	
+concept:object:lid.n.02	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:lid.n.02	concept:affordance:cutting.n.03	-0.8043587242349954	
+
+concept:object:scrub_brush.n.01	concept:affordance:cooking.n.01	0.4559335691541928	
+concept:object:scrub_brush.n.01	concept:affordance:cutting.n.03	-0.8043587242349954	
+concept:object:scrub_brush.n.01	concept:affordance:heating.n.01	-0.8043587242349954	
+
+concept:object:water_bottle.n.01	concept:affordance:baking.n.02	-0.8043587242349954	
+
+concept:object:mug.n.04	concept:affordance:boiling.n.02	0.4559335691541928	
+concept:object:mug.n.04	concept:affordance:cleaning.n.01	0.4559335691541928	
+concept:object:mug.n.04	concept:affordance:burning.n.01	-0.46969793663860043	
+concept:object:mug.n.04	concept:affordance:chopping.n.00	-0.8043587242349954	
+concept:object:mug.n.04	concept:affordance:roasting.n.01	-1.1787784353900683	
+
+concept:object:tissue_paper.n.01	concept:affordance:supporting.n.01	-0.8043587242349954	
+
+concept:object:knob.n.02	concept:affordance:rolling.n.03	-2.151606179055532	
+concept:object:knob.n.02	concept:affordance:heating.n.01	-2.151606179055532	
+
+concept:object:oven.n.01	concept:affordance:boiling.n.02	0.9256315057927935	
+concept:object:oven.n.01	concept:affordance:whisking.n.00	0.9256315057927935	
+
+concept:object:spoon.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+concept:object:spoon.n.01	concept:affordance:cutting.n.03	0.4559335691541928	
+
+concept:object:kitchen_stove.n.01	concept:affordance:cooking.n.01	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:frying.n,01	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:roasting.n.01	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:baking.n.02	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:boiling.n.02	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:burning.n.01	0.9256315057927935	*
+concept:object:kitchen_stove.n.01	concept:affordance:heating.n.01	0.9256315057927935	*
+
+concept:object:credit_card.n.01	concept:affordance:peeling.n.01	-0.8043587242349954	
+concept:object:credit_card.n.01	concept:affordance:baking.n.02	-0.8043587242349954	
+concept:object:credit_card.n.01	concept:affordance:heating.n.01	-1.5134392229864633	
+
+concept:object:lamp.n.02	concept:affordance:cooking.n.01	-0.8043587242349954	
+concept:object:lamp.n.02	concept:affordance:eating.n.01	-0.8043587242349954	
+
+concept:object:bag.n.01	concept:affordance:cutting.n.03	-0.8043587242349954	
+
+concept:object:drinking_glass.n.01	concept:affordance:frying.n,01	-0.46969793663860043	
+concept:object:drinking_glass.n.01	concept:affordance:drinking.n.01	-0.8043587242349954	*
+concept:object:drinking_glass.n.01	concept:affordance:chopping.n.00	-0.8043587242349954	
+
+concept:object:switch.n.01	concept:affordance:cutting.n.03	-1.8346174505748287	
+concept:object:switch.n.01	concept:affordance:cleaning.n.01	-2.151606179055532	
+concept:object:switch.n.01	concept:affordance:washing.n.01	-2.151606179055532	
+
+concept:object:container.n.01	concept:affordance:baking.n.02	0.4559335691541928	*
+concept:object:container.n.01	concept:affordance:mixing.n.01	0.4559335691541928	*
+concept:object:container.n.01	concept:affordance:measurement.n.01	0.4559335691541928	*
+concept:object:container.n.01	concept:affordance:storage.n.01	0.4559335691541928	*
+concept:object:container.n.01	concept:affordance:roasting.n.01	0.4559335691541928	
+concept:object:container.n.01	concept:affordance:washing.n.01	-0.8043587242349954	*
+concept:object:container.n.01	concept:affordance:chopping.n.00	-0.8043587242349954	
+
+concept:object:table.n.02	concept:affordance:cooking.n.01	0.9256315057927935	
+
+concept:object:can.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+
+concept:object:aluminum_foil.n.01	concept:affordance:roasting.n.01	0.9256315057927935	*
+concept:object:aluminum_foil.n.01	concept:affordance:cooking.n.01	0.4559335691541928	*
+concept:object:aluminum_foil.n.01	concept:affordance:baking.n.02	0.4559335691541928	*
+concept:object:aluminum_foil.n.01	concept:affordance:supporting.n.01	0.4559335691541928	*
+concept:object:aluminum_foil.n.01	concept:affordance:storage.n.01	0.4559335691541928	*
+
+concept:object:chair.n.01	concept:affordance:cooking.n.01	0.9256315057927935	
+concept:object:chair.n.01	concept:affordance:toasting.n.01	-0.33466078759639517	
+concept:object:chair.n.01	concept:affordance:boiling.n.02	-0.33466078759639517	
+concept:object:chair.n.01	concept:affordance:frying.n,01	-0.33466078759639517	
+concept:object:chair.n.01	concept:affordance:storage.n.01	-0.5743251571856403	
+concept:object:chair.n.01	concept:affordance:heating.n.01	-1.8346174505748287	
+
+concept:object:fork.n.01	concept:affordance:mixing.n.01	0.4559335691541928	*
+concept:object:fork.n.01	concept:affordance:eating.n.01	0.4559335691541928	*
+concept:object:fork.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+concept:object:fork.n.01	concept:affordance:chopping.n.00	0.4559335691541928	
+
+concept:object:bread.n.01	concept:affordance:frying.n,01	0.7905943567505881	
+
+concept:object:basket.n.01	concept:affordance:washing.n.01	0.4559335691541928	
+concept:object:basket.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:basket.n.01	concept:affordance:slicing.n.02	0.4559335691541928	
+concept:object:basket.n.01	concept:affordance:vacuuming.n.00	-0.33466078759639517	
+concept:object:basket.n.01	concept:affordance:cleaning.n.01	-0.8043587242349954	
+concept:object:basket.n.01	concept:affordance:burning.n.01	-0.8043587242349954	
+
+concept:object:jar.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+concept:object:jar.n.01	concept:affordance:roasting.n.01	0.08151385799912014	
+concept:object:jar.n.01	concept:affordance:frying.n,01	-0.46969793663860043	
+concept:object:jar.n.01	concept:affordance:peeling.n.01	-0.8043587242349954	
+
+concept:object:box.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:box.n.01	concept:affordance:heating.n.01	0.4559335691541928	
+concept:object:box.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+
+concept:object:vacuum.n.04	concept:affordance:measurement.n.01	-0.33466078759639517	
+
+concept:object:pot.n.01	concept:affordance:peeling.n.01	0.4559335691541928	
+concept:object:pot.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+concept:object:pot.n.01	concept:affordance:storage.n.01	0.4559335691541928	
+
+concept:object:coffee_maker.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+concept:object:coffee_maker.n.01	concept:affordance:mixing.n.01	0.4559335691541928	
+concept:object:coffee_maker.n.01	concept:affordance:cleaning.n.01	-0.8043587242349954	
+
+concept:object:cup.n.01	concept:affordance:baking.n.02	0.4559335691541928	
+concept:object:cup.n.01	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:cup.n.01	concept:affordance:cleaning.n.01	0.4559335691541928	
+concept:object:cup.n.01	concept:affordance:chopping.n.00	-0.8043587242349954	
+concept:object:cup.n.01	concept:affordance:slicing.n.02	-0.8043587242349954	
+
+concept:object:teapot.n.01	concept:affordance:measurement.n.01	0.4559335691541928	
+concept:object:teapot.n.01	concept:affordance:supporting.n.01	0.4559335691541928	
+concept:object:teapot.n.01	concept:affordance:roasting.n.01	-0.25314692959727514	
+concept:object:teapot.n.01	concept:affordance:slicing.n.02	-0.8043587242349954	
+
+concept:object:egg.n.02	concept:affordance:measurement.n.01	0.7905943567505881	
+concept:object:egg.n.02	concept:affordance:heating.n.01	0.7905943567505881	
+concept:object:egg.n.02	concept:affordance:burning.n.01	0.7905943567505881	
+
+concept:object:alarm_clock.n.01	concept:affordance:measurement.n.01	-0.8913138856663435	
+concept:object:alarm_clock.n.01	concept:affordance:mixing.n.01	-0.8913138856663435	
+concept:object:alarm_clock.n.01	concept:affordance:toasting.n.01	-0.8913138856663435	
+concept:object:alarm_clock.n.01	concept:affordance:baking.n.02	-2.151606179055532	*
+
+concept:object:refrigerator.n.01	concept:affordance:eating.n.01	0.9256315057927935	
+concept:object:refrigerator.n.01	concept:affordance:supporting.n.01	0.9256315057927935	
+
+concept:object:sink.n.01	concept:affordance:cutting.n.03	-0.8043587242349954	
+
+concept:object:plate.n.04	concept:affordance:toasting.n.01	0.7905943567505881	
+concept:object:plate.n.04	concept:affordance:roasting.n.01	0.7905943567505881	
+concept:object:plate.n.04	concept:affordance:boiling.n.02	0.4559335691541928	
+concept:object:plate.n.04	concept:affordance:vacuuming.n.00	-0.33466078759639517	
+
+concept:object:microwave.n.02	concept:affordance:frying.n,01	0.4559335691541928	
+concept:object:microwave.n.02	concept:affordance:drinking.n.01	0.4559335691541928	
+concept:object:microwave.n.02	concept:affordance:eating.n.01	0.4559335691541928	
+concept:object:microwave.n.02	concept:affordance:roasting.n.01	-0.25314692959727514	
+
+concept:object:skillet.n.01	concept:affordance:drinking.n.01	0.4559335691541928	
+concept:object:skillet.n.01	concept:affordance:cutting.n.03	-0.8043587242349954	
+
+concept:object:soap_dispenser.n.01	concept:affordance:storage.n.01	0.4559335691541928	
+
+concept:object:faucet.n.01	concept:affordance:boiling.n.02	0.4559335691541928	
+concept:object:faucet.n.01	concept:affordance:measurement.n.01	0.4559335691541928	
+concept:object:faucet.n.01	concept:affordance:eating.n.01	-0.8043587242349954	
+
