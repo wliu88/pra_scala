@@ -1,5 +1,3 @@
-README.md
-
 ## PRA (Path Ranking Algorithm) and SFE (Subgraph Feature Extraction)
 
 This repo is forked from Matt Gardner's [pra code](https://github.com/matt-gardner/pra). Modifications have been made 
