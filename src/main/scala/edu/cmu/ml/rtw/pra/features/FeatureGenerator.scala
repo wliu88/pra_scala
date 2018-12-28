@@ -96,6 +96,7 @@ object FeatureGenerator {
       case "subgraphs" => {
         split match {
           case s: NodePairSplit =>
+            // In Scala, if there is no return then the last expression is taken to be the return value.
             new NodePairSubgraphFeatureGenerator(params, relation, relationMetadata, outputter, featureDict, fileUtil)
           case s: NodeSplit =>
             new NodeSubgraphFeatureGenerator(params, relation, relationMetadata, outputter, featureDict, fileUtil)

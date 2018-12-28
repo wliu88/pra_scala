@@ -48,6 +48,7 @@ abstract class SubgraphFeatureGenerator[T <: Instance](
   lazy val pathFinder = createPathFinder()
   val emptySubgraph: Subgraph = Map()
 
+  // path finder is created
   def createPathFinder(): PathFinder[T]
 
   override def constructMatrixRow(instance: T) =
@@ -90,6 +91,7 @@ abstract class SubgraphFeatureGenerator[T <: Instance](
     }
   }
 
+  // feature extractor is created
   val featureExtractors = createExtractors(params)
 
   def createExtractors(params: JValue): Seq[FeatureExtractor[T]]

@@ -1,7 +1,0 @@
-{
-  "name":"robot",
-  "relation sets":[{
-    "is kb":false,
-    "relation file":"examples/relation_metadata/robot/labeled_edges.tsv"
-  }]
-}

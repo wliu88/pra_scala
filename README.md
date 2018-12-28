@@ -2,9 +2,9 @@ README.md
 
 ## PRA (Path Ranking Algorithm) and SFE (Subgraph Feature Extraction)
 
-This repo is forked from Matt Gardner's [pra code](https://github.com/matt-gardner/pra). Modifications have been made 
-to ensure the code runs smoothly. Support for new datasets have also been added. Below is a brief description of the 
-code from the original repo:
+This repo is forked from Matt Gardner's [pra code](https://github.com/matt-gardner/pra). The original is no longer
+maintained. Modifications have been made to ensure the code runs smoothly. Support for new datasets have also been 
+added. Below is a brief description of the code from the original repo:
 
 PRA and SFE are algorithms that extract feature matrices from graphs, and use those feature
 matrices to do link prediction in that graph.  This repository contains implementations of PRA and
@@ -73,4 +73,26 @@ cd ..
 sbt "run ./examples/ sfe_bfs_pra_anyrel"
 ```
 You will need to run the last command twice, incidentally - the first time, you should select the `ExperimentRunner` 
-option, and the second time you should select `ExperimentScorer`, to see the results. 
+option, and the second time you should select `ExperimentScorer`, to see the results.
+
+## Using your own data
+1. Four components are necessary for running this code: relation metadata, a graph, a training/testing split, and an
+experiment specification file. Details can be accessed [here](http://matt-gardner.github.io/pra/input/experiment_spec.html).
+Even though you can specify all four components completely by yourself, I am adopting an easier approach
+in which I only need to provide relation metadata and an experiment specification. I will use the code to automatically
+generate the graph and the training/testing split. 
+
+2. Read Issue Page of the original repo. 
+
+2. To specify relation metadata, you need to make a new folder in the `relation_metadata` folder. In the new folder,
+generate `category_instances/`, `domains.tsv`, `ranges.tsv`, `labeled_edges.tsv`, `relations/`, and `inverses.tsv` based
+on your data according to specifications [here](http://matt-gardner.github.io/pra/input/relation_metadata.html).
+Usually, data for knowledge completion task is made of triplets, each contains a subject, a relation, and an object. A
+list of triplets is enough to generate all the files mentioned above.
+
+3. To automatically generate the graph and split from the relation metadata, create an experiment specification file 
+`your_experiment_specs` according the example `robot_create_graph_and_split.json`. 
+Then run `sbt "run ./examples/ your_experiment_specs"`. After running the command, two new folders will be created in
+`splits` and `graphs`.
+
+

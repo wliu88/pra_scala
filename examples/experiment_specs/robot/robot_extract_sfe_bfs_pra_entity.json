@@ -1,0 +1,41 @@
+{
+  "graph": {
+    "name": "robot",
+    "relation sets": [
+      {
+        "is kb": false,
+        "relation file": "examples/relation_metadata/robot/labeled_edges.tsv"
+      },
+    ]
+  },
+  "split": {
+    "name": "robot_splits",
+    "relation metadata": "robot",
+    "graph": "robot",
+    "percent training":0.8,
+    "relations":["concept:in", "concept:on", "concept:made_of", "concept:used_for"],
+    "negative instances": {
+      "negative to positive ratio": 10
+    }
+  },
+  "operation": {
+    "type": "create matrices",
+    "features": {
+      "type": "subgraphs",
+      "path finder": {
+        "type": "BfsPathFinder",
+        "number of steps": 2,
+	"path type factory": "LexicalizedPathTypeFactory",
+      },
+      "feature extractors": [{
+        "name": "PraFeatureExtractor",
+        "include nodes": true,
+      }],
+      "feature size": -1
+    },
+    "data": "both"
+  },
+  "output": {
+    "output matrices": true
+  }
+}

@@ -17,7 +17,7 @@ class LexicalizedPathType(
 
   val numHops = edgeTypes.size
 
-  val removeColon = JsonHelper.extractWithDefault(params, "remove colon", "filter")
+  val removeColon = JsonHelper.extractWithDefault(params, "remove colon", "yes")
   val removeColonErrorMessage = "With remove colon: filter, second column must be KEEP or REMOVE"
 
   override def recommendedIters() = {
