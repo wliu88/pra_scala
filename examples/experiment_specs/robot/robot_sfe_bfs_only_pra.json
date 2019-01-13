@@ -9,13 +9,13 @@
     ]
   },
   "split": {
-    "name": "robot_splits",
+    "name": "robot_split",
     "relation metadata": "robot",
     "graph": "robot",
     "percent training":0.8,
-    "relations":["concept:in", "concept:on", "concept:made_of", "concept:used_for"],
+    "relations":["in", "on", "made_of", "used_for"],
     "negative instances": {
-      "negative to positive ratio": 10
+      "negative to positive ratio": 4
     }
   },
   "operation": {

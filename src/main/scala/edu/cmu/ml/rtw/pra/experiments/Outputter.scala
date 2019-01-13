@@ -246,7 +246,7 @@ class Outputter(params: JValue, praBase: String, methodName: String, fileUtil: F
 
   def outputFeatureMatrix(isTraining: Boolean, matrix: FeatureMatrix, featureNames: Seq[String]) {
     if (shouldOutputMatrices) {
-      val trainingStr = if (isTraining) "training_matrix.tsv" else "test_matrix.tsv"
+      val trainingStr = if (isTraining) "training_matrix.tsv" else "testing_matrix.tsv"
       val filename = baseDir + relation + "/" + trainingStr
       val writer = fileUtil.getFileWriter(filename)
       for (row <- matrix.getRows().asScala) {

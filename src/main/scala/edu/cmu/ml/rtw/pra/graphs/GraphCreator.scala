@@ -64,6 +64,8 @@ class GraphCreator(
   val outputBinaryFile = JsonHelper.extractWithDefault(params, "output binary file", true)
   val outputPlainTextFile = JsonHelper.extractWithDefault(params, "output plain text file", false)
   val shouldShardGraph = JsonHelper.extractWithDefault(params, "shard plain text graph", false)
+  println("here")
+  println(shouldShardGraph)
   val outputMatrices = JsonHelper.extractWithDefault(params, "output matrices", false)
   val maxMatrixFileSize = JsonHelper.extractWithDefault(params, "max matrix file size", 100000)
 

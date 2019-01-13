@@ -88,10 +88,10 @@ class PraFeatureExtractor(params: JValue) extends NodePairFeatureExtractor {
   // includeNodes is true and we don't have lexicalized path types, this will crash.
   val includeNodes = JsonHelper.extractWithDefault(params, "include nodes", false)
 
-  override def extractFeatures(instance: NodePairInstance, subgraph: Subgraph) = {
+  override def extractFeatures(instance: NodePairInstance, subgraph: Subgraph):Seq[String] = {
     val graph = instance.graph
     val sourceTarget = (instance.source, instance.target)
-    subgraph.flatMap(entry => {
+    val features = subgraph.flatMap(entry => {
       if (entry._2.contains(sourceTarget)) {
         val pathType = entry._1
         val feature = if (includeNodes) {
@@ -111,6 +111,11 @@ class PraFeatureExtractor(params: JValue) extends NodePairFeatureExtractor {
         Seq[String]()
       }
     }).toSeq
+    //println(graph.getNodeName(instance.source), graph.getNodeName(instance.target), "has #paths", features.size)
+//    for (feature <- features) {
+//      println(feature)
+//    }
+    return features
   }
 
   override def getFeatureMatcher(

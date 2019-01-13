@@ -74,6 +74,8 @@ public class RandomWalkPathFinder implements WalkUpdateFunction<EmptyType, Integ
                               PathTypePolicy policy,
                               PathTypeFactory pathTypeFactory) {
     try {
+      System.out.println("Hello World");
+      System.out.println(graph.graphFile());
       this.drunkardMobEngine =
           new DrunkardMobEngine<EmptyType, Integer>(graph.graphFile(), graph.numShards(), new Factory());
       this.drunkardMobEngine.setEdataConverter(new IntConverter());

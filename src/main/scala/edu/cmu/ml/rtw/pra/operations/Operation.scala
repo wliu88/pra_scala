@@ -256,12 +256,14 @@ class CreateMatrices[T <: Instance](
 
     if (dataToUse == "training" || dataToUse == "both") {
       val trainingData = split.getTrainingData(relation, graph)
+      // need to see what is trainingData
       val trainingMatrix = generator.createTrainingMatrix(trainingData)
       outputter.outputFeatureMatrix(true, trainingMatrix, generator.getFeatureNames())
     }
     if (dataToUse == "testing" || dataToUse == "both") {
       val testingData = split.getTestingData(relation, graph)
       val testingMatrix = generator.createTestMatrix(testingData)
+      println("about to write matrix")
       outputter.outputFeatureMatrix(false, testingMatrix, generator.getFeatureNames())
     }
   }

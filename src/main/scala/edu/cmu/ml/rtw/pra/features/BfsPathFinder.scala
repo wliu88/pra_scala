@@ -122,6 +122,8 @@ abstract class BfsPathFinder[T <: Instance](
     // you should keep a Seq[(Int, Int, Boolean)] with edge types, nodes, and reverse.  You can
     // check the nodes at each step to see if you're at a cycle, then construct a path type from
     // the edge types and reverse when it's needed.
+    //
+    // resultsByPathType is useful because it can be used to construct one side features.
     val queue = new mutable.Queue[(Int, PathType, Int)]
     val resultsByNode = new mutable.HashMap[Int, mutable.HashSet[PathType]].withDefaultValue(
       new mutable.HashSet[PathType]())
@@ -138,9 +140,11 @@ abstract class BfsPathFinder[T <: Instance](
           val edges = n.edges.get(relation)
           val inEdges = edges._1
           val outEdges = edges._2
+          //println(graph.getNodeName(node), graph.getEdgeName(relation), "has inedges", inEdges.size, "outedges", outEdges.size)
           if (inEdges.size + outEdges.size <= maxFanOut) {
             for (i <- 0 until inEdges.size) {
               val nextNode = inEdges.get(i)
+              //println("inedges", graph.getNodeName(node), graph.getEdgeName(relation), graph.getNodeName(nextNode))
               if (!shouldSkip(source, target, node, nextNode, relation, unallowedRelations)) {
                 val nextPathType = factory.addToPathType(pathType, relation, nextNode, true)
                 queue += Tuple3(nextNode, nextPathType, stepsLeft - 1)
@@ -148,6 +152,7 @@ abstract class BfsPathFinder[T <: Instance](
             }
             for (i <- 0 until outEdges.size) {
               val nextNode = outEdges.get(i)
+              //println("outedges", graph.getNodeName(node), graph.getEdgeName(relation), graph.getNodeName(nextNode))
               if (!shouldSkip(source, target, node, nextNode, relation, unallowedRelations)) {
                 val nextPathType = factory.addToPathType(pathType, relation, nextNode, false)
                 queue += Tuple3(nextNode, nextPathType, stepsLeft - 1)
@@ -196,9 +201,54 @@ class NodePairBfsPathFinder(
     // what is path type factory?
     val factory = createPathTypeFactory(factoryParams, graph)
     val unallowedEdges = relationMetadata.getUnallowedEdges(relation, graph).toSet
+    //for (unallowedEdge <- unallowedEdges) {
+    //  println(graph.getEdgeName(unallowedEdge))
+    //}
+    // println(s"Elements of unallowed edges = $unallowedEdges")
+    // a set of size 1
     val source = instance.source
     val target = instance.target
     val result = new mutable.HashMap[PathType, mutable.HashSet[(Int, Int)]]
+
+//    //##############test##############
+//    //println(graph.getNodeName(source), graph.getNodeName(target))
+//    if (graph.getNodeName(source) == "object:sandwich.n.01" && graph.getNodeName(target) == "location:mug.n.04" && relation == "in") {
+//      // Note that we're doing two BFS searches for each instance - one from the source, and one from
+//      // the target.  But that's extra work!, you might say, because if there are duplicate sources
+//      // or targets across instances, we should only have to do the BFS once!  That's true, unless
+//      // you want to hold out the edge from the graph correctly.  What you really want is to run a
+//      // BFS for each instance holding out just a _single_ edge from the graph - the training edge
+//      // that you're trying to learn to predict.  If you share the BFS across multiple training
+//      // instances, you won't be holding out the edges correctly.
+//      //
+//      // It might make sense to have a setting where you _know_ that you don't need to hold out any
+//      // edges from the graph, so you can re-use the BFS for each source node.  Except, we've gone
+//      // away from bulk processing towards processing individual instances, anyway, for memory
+//      // reasons. This setting would require keeping these subgraphs around in memory, and they are
+//      // very large...
+//      val sourceSubgraph = bfsFromNode(graph, factory, source, target, unallowedEdges, result)
+//      val targetSubgraph = bfsFromNode(graph, factory, target, source, unallowedEdges, result)
+//
+//      // println(sourceSubgraph.size)
+//      // println(targetSubgraph.size)
+//      val sourceKeys = sourceSubgraph.keys.toSet
+//      val targetKeys = targetSubgraph.keys.toSet
+//      val keysToUse = if (sourceKeys.size > targetKeys.size) targetKeys else sourceKeys
+//      // println("intermediate nodes", keysToUse.size)
+//      //notice: Because keysToUse is not the intersection of sourceKeys and targetKeys, it's the smaller set of the two,
+//      //        sourcePath or targetPath could be empty.
+//      for (intermediateNode <- keysToUse) {
+//        // println("source path to node", sourceSubgraph(intermediateNode).size, "target path to node", targetSubgraph(intermediateNode).size)
+//        // below is pair-wise combination.
+//        for (sourcePath <- sourceSubgraph(intermediateNode);
+//             targetPath <- targetSubgraph(intermediateNode)) {
+//          val combinedPath = factory.concatenatePathTypes(sourcePath, targetPath)
+//          result.getOrElseUpdate(combinedPath, new mutable.HashSet[(Int, Int)]).add((source, target))
+//        }
+//      }
+//      println("path types", result.size)
+//    }
+//    result.mapValues(_.toSet).toMap
 
     // Note that we're doing two BFS searches for each instance - one from the source, and one from
     // the target.  But that's extra work!, you might say, because if there are duplicate sources
@@ -215,16 +265,26 @@ class NodePairBfsPathFinder(
     // very large...
     val sourceSubgraph = bfsFromNode(graph, factory, source, target, unallowedEdges, result)
     val targetSubgraph = bfsFromNode(graph, factory, target, source, unallowedEdges, result)
+
+    //println(graph.getNodeName(source), graph.getNodeName(target), relation)
+    // println(sourceSubgraph.size)
+    // println(targetSubgraph.size)
     val sourceKeys = sourceSubgraph.keys.toSet
     val targetKeys = targetSubgraph.keys.toSet
     val keysToUse = if (sourceKeys.size > targetKeys.size) targetKeys else sourceKeys
+    // println("intermediate nodes", keysToUse.size)
+    //notice: Because keysToUse is not the intersection of sourceKeys and targetKeys, it's the smaller set of the two,
+    //        sourcePath or targetPath could be empty.
     for (intermediateNode <- keysToUse) {
+      // println("source path to node", sourceSubgraph(intermediateNode).size, "target path to node", targetSubgraph(intermediateNode).size)
+      // below is pair-wise combination.
       for (sourcePath <- sourceSubgraph(intermediateNode);
            targetPath <- targetSubgraph(intermediateNode)) {
          val combinedPath = factory.concatenatePathTypes(sourcePath, targetPath)
          result.getOrElseUpdate(combinedPath, new mutable.HashSet[(Int, Int)]).add((source, target))
        }
     }
+    // println("path types", result.size)
     result.mapValues(_.toSet).toMap
   }
 

@@ -71,6 +71,7 @@ object BasicMetricComputer extends MetricComputer {
       testInstanceSet.add((source, target))
     }
     val ap_and_rr = computeApAndRr(predictions, testInstanceSet.toSet)
+    //println(ap_and_rr)
     metrics("AP") = ap_and_rr._1
     metrics("RR") = ap_and_rr._2
 
@@ -79,11 +80,13 @@ object BasicMetricComputer extends MetricComputer {
     val preds_only_map_results = new mutable.ListBuffer[Double]
     val preds_only_mrr_results = new mutable.ListBuffer[Double]
     for (source <- testData.keys) {
+      // predictions for all pairs contains specific source
       val source_preds = predictions.filter(_._3 == source)
       val source_instances = testData(source).map((source, _)).toSet
       val map_and_mrr = computeApAndRr(source_preds, source_instances)
       map_results += map_and_mrr._1
       mrr_results += map_and_mrr._2
+      // println(source, map_and_mrr._1)
       if (source_preds.size > 0) {
         preds_only_map_results += map_and_mrr._1
         preds_only_mrr_results += map_and_mrr._2

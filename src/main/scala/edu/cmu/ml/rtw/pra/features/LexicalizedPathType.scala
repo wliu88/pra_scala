@@ -17,6 +17,7 @@ class LexicalizedPathType(
 
   val numHops = edgeTypes.size
 
+  // set default to yes will only keep the name of the entity, not its types. potentially saving space.
   val removeColon = JsonHelper.extractWithDefault(params, "remove colon", "yes")
   val removeColonErrorMessage = "With remove colon: filter, second column must be KEEP or REMOVE"
 
@@ -231,12 +232,16 @@ class LexicalizedPathTypeFactory(params: JValue, graph: Graph) extends PathTypeF
   override def concatenatePathTypes(pathFromSource: PathType, pathFromTarget: PathType): PathType = {
     val source = pathFromSource.asInstanceOf[LexicalizedPathType]
     val target = pathFromTarget.asInstanceOf[LexicalizedPathType]
+    //println("source", source.encodeAsString())
+    //println("target", target.encodeAsString())
 
+    // Important: This is questionable. However, this may never be triggered from BfsPathFinder.getSubgraphForInstance
     // First, if the path from the target is empty, we'll just return the path from the source,
     // minus the last node.
     if (target.numHops == 0) {
       val edges = source.edgeTypes.clone
       val nodes = source.nodes.clone.dropRight(1)
+      // println(nodes)
       val reverse = source.reverse.clone
       return new LexicalizedPathType(edges, nodes, reverse, params)
     }
@@ -258,6 +263,8 @@ class LexicalizedPathTypeFactory(params: JValue, graph: Graph) extends PathTypeF
     // Ok, now we can actually concatenate the path types and return the result.  If the path from
     // the source is empty, this code should still work just fine.
     val totalHops = source.numHops + target.numHops
+
+    // println("hops, source, target", source.numHops, target.numHops)
     val combinedEdgeTypes = new Array[Int](totalHops)
     // Because the path types share a common node, there will be one less node than edge.
     val combinedNodes = new Array[Int](totalHops - 1)
@@ -275,6 +282,7 @@ class LexicalizedPathTypeFactory(params: JValue, graph: Graph) extends PathTypeF
       i -= 1
       j += 1
     }
+    //println("edges:", combinedEdgeTypes.size, "nodes:", combinedNodes.size)
     new LexicalizedPathType(combinedEdgeTypes, combinedNodes, combinedReverse, params)
   }
 

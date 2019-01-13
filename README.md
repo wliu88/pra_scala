@@ -93,4 +93,18 @@ list of triplets is enough to generate all the files mentioned above.
 Then run `sbt "run ./examples/ your_experiment_specs"`. After running the command, two new folders will be created in
 `splits` and `graphs`.
 
+## Run SFE with random walk path extractor
+1. Add two lines in the `create_graph_and_split` experiment spec to create GraphChi files
+```$json
+"graph": {
+  ...
+  "shard plain text graph": true,
+  "output plain text file": true,
+}
+```
+GraphChi is the graph object that random walk uses. 
+2. Remove `graphs/your_dataset/edge.dat`, otherwise the code will look for this file using a wrong name, causing a
+runtime error. 
+3. Use `pra` experiment spec to run PRA and use `extract_pra` to get features extracted from random walks. 
+
 
