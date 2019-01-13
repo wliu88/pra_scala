@@ -102,7 +102,7 @@ Then run `sbt "run ./examples/ your_experiment_specs"`. After running the comman
   "output plain text file": true,
 }
 ```
-GraphChi is the graph object that random walk uses.
+  GraphChi is the graph object that random walk uses.
 
 2. Remove `graphs/your_dataset/edge.dat`, otherwise the code will look for this file using a wrong name, causing a
 runtime error. 
