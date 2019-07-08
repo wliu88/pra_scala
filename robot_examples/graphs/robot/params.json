@@ -1,0 +1,9 @@
+{
+  "name":"robot",
+  "relation sets":[{
+    "is kb":false,
+    "relation file":"examples/relation_metadata/robot/labeled_edges.tsv"
+  }],
+  "shard plain text graph":true,
+  "output plain text file":true
+}

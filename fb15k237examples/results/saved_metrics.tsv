@@ -1,0 +1,176 @@
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Per Query MRR	0.31355932203389836
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	__TIMESTAMP__	1.550702972E12
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	% no predictions	0.423728813559322
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	RR	1.0
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Predicted MAP	0.39812091503267966
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Per Query MAP	0.22942561205273065
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	AP	0.1031815601107634
+freebase/freebase_pra	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Predicted MRR	0.5441176470588236
+freebase/freebase_pra	|film|film|production_companies	Per Query MRR	0.9
+freebase/freebase_pra	|film|film|production_companies	__TIMESTAMP__	1.55070283E12
+freebase/freebase_pra	|film|film|production_companies	% no predictions	0.07307692307692308
+freebase/freebase_pra	|film|film|production_companies	RR	1.0
+freebase/freebase_pra	|film|film|production_companies	Predicted MAP	0.960235131396957
+freebase/freebase_pra	|film|film|production_companies	Per Query MAP	0.8900641025641025
+freebase/freebase_pra	|film|film|production_companies	AP	0.7607783250704687
+freebase/freebase_pra	|film|film|production_companies	Predicted MRR	0.970954356846473
+freebase/freebase_pra	__DISPLAY_NAME__	freebase_pra	1.0
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	Per Query MRR	0.975
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	__TIMESTAMP__	1.550703019E12
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	% no predictions	0.0
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	RR	1.0
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	Predicted MAP	0.7596878034183908
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	Per Query MAP	0.7596878034183908
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	AP	0.7194061965513819
+freebase/freebase_pra	|food|food|nutrients.|food|nutrition_fact|nutrient	Predicted MRR	0.975
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	Per Query MRR	0.8960639606396065
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	__TIMESTAMP__	1.550702755E12
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	% no predictions	0.055350553505535055
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	RR	1.0
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	Predicted MAP	0.9350694444444444
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	Per Query MAP	0.8833128331283312
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	AP	0.779763948826198
+freebase/freebase_pra	|award|award_winning_work|awards_won.|award|award_honor|award	Predicted MRR	0.9485677083333334
+freebase/freebase_pra	|film|film|genre	Per Query MRR	0.897921522921523
+freebase/freebase_pra	|film|film|genre	__TIMESTAMP__	1.550702864E12
+freebase/freebase_pra	|film|film|genre	% no predictions	0.026806526806526808
+freebase/freebase_pra	|film|film|genre	RR	1.0
+freebase/freebase_pra	|film|film|genre	Predicted MAP	0.8932850964737195
+freebase/freebase_pra	|film|film|genre	Per Query MAP	0.8693392255892258
+freebase/freebase_pra	|film|film|genre	AP	0.7268057397110853
+freebase/freebase_pra	|film|film|genre	Predicted MRR	0.9226546906187626
+freebase/freebase_pra	__DATASET__	__TIMESTAMP__	1.550703019E12
+freebase/freebase_pra	__DATASET__	MMAP Predicted	0.7514405745376954
+freebase/freebase_pra	__DATASET__	MMRR Predicted	0.8729303770751882
+freebase/freebase_pra	__DATASET__	MMAP	0.7038146347142862
+freebase/freebase_pra	__DATASET__	MMRR	0.806665252951689
+freebase/freebase_pra	__DATASET__	MAP	0.5728181747631672
+freebase/freebase_pra	__DATASET__	MRR	1.0
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Per Query MRR	0.8906250000000002
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	__TIMESTAMP__	1.550702897E12
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	% no predictions	0.005952380952380952
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	RR	1.0
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Predicted MAP	0.8806579424421661
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Per Query MAP	0.8754159308800104
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	AP	0.7136423088312719
+freebase/freebase_pra	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Predicted MRR	0.8959580838323356
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	Per Query MRR	0.8225
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	__TIMESTAMP__	1.55070301E12
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	% no predictions	0.0
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	RR	1.0
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	Predicted MAP	0.6745223493591146
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	Per Query MAP	0.6745223493591146
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	AP	0.4603751834174501
+freebase/freebase_pra	|sports|sports_position|players.|sports|sports_team_roster|team	Predicted MRR	0.8225
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	Per Query MRR	0.9092827004219408
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	__TIMESTAMP__	1.550702714E12
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	% no predictions	0.02531645569620253
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	RR	1.0
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	Predicted MAP	0.6898016319196257
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	Per Query MAP	0.6723382994659644
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	AP	0.5594834962492817
+freebase/freebase_pra	|award|award_category|nominees.|award|award_nomination|nominated_for	Predicted MRR	0.9329004329004328
+freebase/freebase_pra	|people|person|profession	Per Query MRR	0.922437202987101
+freebase/freebase_pra	|people|person|profession	__TIMESTAMP__	1.550702939E12
+freebase/freebase_pra	|people|person|profession	% no predictions	0.016293279022403257
+freebase/freebase_pra	|people|person|profession	RR	1.0
+freebase/freebase_pra	|people|person|profession	Predicted MAP	0.9200425580860363
+freebase/freebase_pra	|people|person|profession	Per Query MAP	0.9050520479746549
+freebase/freebase_pra	|people|person|profession	AP	0.742718056657346
+freebase/freebase_pra	|people|person|profession	Predicted MRR	0.9377156659765353
+freebase/freebase_pra	|music|record_label|artist	Per Query MRR	0.5392628205128205
+freebase/freebase_pra	|music|record_label|artist	__TIMESTAMP__	1.550702797E12
+freebase/freebase_pra	|music|record_label|artist	% no predictions	0.3076923076923077
+freebase/freebase_pra	|music|record_label|artist	RR	1.0
+freebase/freebase_pra	|music|record_label|artist	Predicted MAP	0.40298287280381895
+freebase/freebase_pra	|music|record_label|artist	Per Query MAP	0.2789881427103362
+freebase/freebase_pra	|music|record_label|artist	AP	0.1620269322064252
+freebase/freebase_pra	|music|record_label|artist	Predicted MRR	0.7789351851851852
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Per Query MRR	0.5960451977401131
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	__TIMESTAMP__	1.55070322E12
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	% no predictions	0.16101694915254236
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	RR	1.0
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Predicted MAP	0.5570340153673488
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Per Query MAP	0.4673420976387078
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	AP	0.19038940277786756
+freebase/freebase_sfe	|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor	Predicted MRR	0.7104377104377105
+freebase/freebase_sfe	|film|film|production_companies	Per Query MRR	0.6788461538461539
+freebase/freebase_sfe	|film|film|production_companies	__TIMESTAMP__	1.550703209E12
+freebase/freebase_sfe	|film|film|production_companies	% no predictions	0.2923076923076923
+freebase/freebase_sfe	|film|film|production_companies	RR	1.0
+freebase/freebase_sfe	|film|film|production_companies	Predicted MAP	0.933876811594203
+freebase/freebase_sfe	|film|film|production_companies	Per Query MAP	0.6608974358974359
+freebase/freebase_sfe	|film|film|production_companies	AP	0.5894008363232996
+freebase/freebase_sfe	|film|film|production_companies	Predicted MRR	0.9592391304347826
+freebase/freebase_sfe	__DISPLAY_NAME__	freebase_sfe	1.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	Per Query MRR	1.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	__TIMESTAMP__	1.550703221E12
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	% no predictions	0.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	RR	1.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	Predicted MAP	1.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	Per Query MAP	1.0
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	AP	0.8138834180724988
+freebase/freebase_sfe	|food|food|nutrients.|food|nutrition_fact|nutrient	Predicted MRR	1.0
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	Per Query MRR	0.8714637146371464
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	__TIMESTAMP__	1.550703206E12
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	% no predictions	0.09225092250922509
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	RR	1.0
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	Predicted MAP	0.9471996386630532
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	Per Query MAP	0.8598195981959819
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	AP	0.8063800950618126
+freebase/freebase_sfe	|award|award_winning_work|awards_won.|award|award_honor|award	Predicted MRR	0.9600271002710028
+freebase/freebase_sfe	|film|film|genre	Per Query MRR	0.26282051282051283
+freebase/freebase_sfe	|film|film|genre	__TIMESTAMP__	1.550703212E12
+freebase/freebase_sfe	|film|film|genre	% no predictions	0.6888111888111889
+freebase/freebase_sfe	|film|film|genre	RR	1.0
+freebase/freebase_sfe	|film|film|genre	Predicted MAP	0.7198501872659175
+freebase/freebase_sfe	|film|film|genre	Per Query MAP	0.224009324009324
+freebase/freebase_sfe	|film|film|genre	AP	0.20174657007901636
+freebase/freebase_sfe	|film|film|genre	Predicted MRR	0.8445692883895131
+freebase/freebase_sfe	__DATASET__	__TIMESTAMP__	1.550703221E12
+freebase/freebase_sfe	__DATASET__	MMAP Predicted	0.7914842182727323
+freebase/freebase_sfe	__DATASET__	MMRR Predicted	0.865947160586574
+freebase/freebase_sfe	__DATASET__	MMAP	0.6497526010095308
+freebase/freebase_sfe	__DATASET__	MMRR	0.706767204521035
+freebase/freebase_sfe	__DATASET__	MAP	0.5548981460631318
+freebase/freebase_sfe	__DATASET__	MRR	0.925
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Per Query MRR	0.7906746031746034
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	__TIMESTAMP__	1.550703216E12
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	% no predictions	0.09226190476190477
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	RR	1.0
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Predicted MAP	0.8129953043313699
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Per Query MAP	0.7379868089912732
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	AP	0.6530555312053973
+freebase/freebase_sfe	|education|educational_institution|students_graduates.|education|education|major_field_of_study	Predicted MRR	0.8710382513661205
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	Per Query MRR	0.8225
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	__TIMESTAMP__	1.550703221E12
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	% no predictions	0.0
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	RR	1.0
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	Predicted MAP	0.771578230669612
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	Per Query MAP	0.771578230669612
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	AP	0.8053081146691322
+freebase/freebase_sfe	|sports|sports_position|players.|sports|sports_team_roster|team	Predicted MRR	0.8225
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	Per Query MRR	0.8527426160337553
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	__TIMESTAMP__	1.550703205E12
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	% no predictions	0.02531645569620253
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	RR	1.0
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	Predicted MAP	0.748221643006068
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	Per Query MAP	0.729279322929965
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	AP	0.714563342152842
+freebase/freebase_sfe	|award|award_category|nominees.|award|award_nomination|nominated_for	Predicted MRR	0.8748917748917749
+freebase/freebase_sfe	|people|person|profession	Per Query MRR	0.49193822131704
+freebase/freebase_sfe	|people|person|profession	__TIMESTAMP__	1.550703219E12
+freebase/freebase_sfe	|people|person|profession	% no predictions	0.4210794297352342
+freebase/freebase_sfe	|people|person|profession	RR	1.0
+freebase/freebase_sfe	|people|person|profession	Predicted MAP	0.7599515223855589
+freebase/freebase_sfe	|people|person|profession	Per Query MAP	0.43995156871302465
+freebase/freebase_sfe	|people|person|profession	AP	0.3621751748018751
+freebase/freebase_sfe	|people|person|profession	Predicted MRR	0.8497508062151862
+freebase/freebase_sfe	|music|record_label|artist	Per Query MRR	0.7006410256410256
+freebase/freebase_sfe	|music|record_label|artist	__TIMESTAMP__	1.550703208E12
+freebase/freebase_sfe	|music|record_label|artist	% no predictions	0.08653846153846154
+freebase/freebase_sfe	|music|record_label|artist	RR	0.25
+freebase/freebase_sfe	|music|record_label|artist	Predicted MAP	0.6641348294441919
+freebase/freebase_sfe	|music|record_label|artist	Per Query MAP	0.606661623049983
+freebase/freebase_sfe	|music|record_label|artist	AP	0.41207897548757744
+freebase/freebase_sfe	|music|record_label|artist	Predicted MRR	0.767017543859649

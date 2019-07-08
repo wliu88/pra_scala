@@ -213,6 +213,7 @@ public class RandomWalkPathFollowerCompanion extends TwoKeyCompanion {
         isPositive = true;
       }
       NodePairInstance instance = new NodePairInstance(sourceNode, targetNode, isPositive, graph);
+      System.out.println(graph.getNodeName(sourceNode) + " has paths " + pathTypes.length);
       matrix.add(new MatrixRow(instance, pathTypes, values));
     }
     return new FeatureMatrix(matrix);

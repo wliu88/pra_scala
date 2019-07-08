@@ -1,0 +1,13 @@
+Time for relation has_part: 0 minutes and 34 seconds
+Time for relation hypernym: 2 minutes and 2 seconds
+Time for relation synset_domain_topic_of: 0 minutes and 45 seconds
+Time for relation derivationally_related_form: 2 minutes and 34 seconds
+Time for relation member_of_domain_region: 0 minutes and 32 seconds
+Time for relation also_see: 0 minutes and 30 seconds
+Time for relation similar_to: 0 minutes and 33 seconds
+Time for relation verb_group: 0 minutes and 25 seconds
+Time for relation member_of_domain_usage: 0 minutes and 22 seconds
+Time for relation instance_hypernym: 0 minutes and 35 seconds
+Time for relation member_meronym: 0 minutes and 25 seconds
+PRA appears to have finished all relations successfully
+Total time: 9 minutes and 22 seconds

@@ -111,7 +111,7 @@ class PraFeatureExtractor(params: JValue) extends NodePairFeatureExtractor {
         Seq[String]()
       }
     }).toSeq
-    //println(graph.getNodeName(instance.source), graph.getNodeName(instance.target), "has #paths", features.size)
+    println(graph.getNodeName(instance.source), graph.getNodeName(instance.target), "has #paths", features.size)
 //    for (feature <- features) {
 //      println(feature)
 //    }

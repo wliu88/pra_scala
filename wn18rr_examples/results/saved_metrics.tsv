@@ -1,0 +1,288 @@
+wordnet/wordnet_pra	__DISPLAY_NAME__	wordnet_pra	1.0
+wordnet/wordnet_pra	member_of_domain_region	Per Query MRR	0.425
+wordnet/wordnet_pra	member_of_domain_region	__TIMESTAMP__	1.549913415E12
+wordnet/wordnet_pra	member_of_domain_region	% no predictions	0.575
+wordnet/wordnet_pra	member_of_domain_region	RR	1.0
+wordnet/wordnet_pra	member_of_domain_region	Predicted MAP	0.7460623593699774
+wordnet/wordnet_pra	member_of_domain_region	Per Query MAP	0.3170765027322404
+wordnet/wordnet_pra	member_of_domain_region	AP	0.12150565637265463
+wordnet/wordnet_pra	member_of_domain_region	Predicted MRR	1.0
+wordnet/wordnet_pra	has_part	Per Query MRR	0.2787193973634652
+wordnet/wordnet_pra	has_part	__TIMESTAMP__	1.54991306E12
+wordnet/wordnet_pra	has_part	% no predictions	0.7005649717514124
+wordnet/wordnet_pra	has_part	RR	1.0
+wordnet/wordnet_pra	has_part	Predicted MAP	0.8130815114305678
+wordnet/wordnet_pra	has_part	Per Query MAP	0.24346508534361636
+wordnet/wordnet_pra	has_part	AP	0.21291689284622686
+wordnet/wordnet_pra	has_part	Predicted MRR	0.9308176100628931
+wordnet/wordnet_pra	member_meronym	Per Query MRR	0.35119047619047616
+wordnet/wordnet_pra	member_meronym	__TIMESTAMP__	1.549913588E12
+wordnet/wordnet_pra	member_meronym	% no predictions	0.6369047619047619
+wordnet/wordnet_pra	member_meronym	RR	1.0
+wordnet/wordnet_pra	member_meronym	Predicted MAP	0.9327868852459016
+wordnet/wordnet_pra	member_meronym	Per Query MAP	0.3386904761904762
+wordnet/wordnet_pra	member_meronym	AP	0.3169437531365611
+wordnet/wordnet_pra	member_meronym	Predicted MRR	0.9672131147540983
+wordnet/wordnet_pra	__DATASET__	__TIMESTAMP__	1.549913588E12
+wordnet/wordnet_pra	__DATASET__	MMAP Predicted	0.889027513141319
+wordnet/wordnet_pra	__DATASET__	MMRR Predicted	0.9793660473586271
+wordnet/wordnet_pra	__DATASET__	MMAP	0.4858625820309721
+wordnet/wordnet_pra	__DATASET__	MMRR	0.5258687214373302
+wordnet/wordnet_pra	__DATASET__	MAP	0.45227779820811514
+wordnet/wordnet_pra	__DATASET__	MRR	1.0
+wordnet/wordnet_pra	also_see	Per Query MRR	0.6854460093896714
+wordnet/wordnet_pra	also_see	__TIMESTAMP__	1.549913446E12
+wordnet/wordnet_pra	also_see	% no predictions	0.30985915492957744
+wordnet/wordnet_pra	also_see	RR	1.0
+wordnet/wordnet_pra	also_see	Predicted MAP	0.9790249433106577
+wordnet/wordnet_pra	also_see	Per Query MAP	0.6756651017214398
+wordnet/wordnet_pra	also_see	AP	0.6586521788740393
+wordnet/wordnet_pra	also_see	Predicted MRR	0.9931972789115646
+wordnet/wordnet_pra	similar_to	Per Query MRR	0.5833333333333334
+wordnet/wordnet_pra	similar_to	__TIMESTAMP__	1.549913479E12
+wordnet/wordnet_pra	similar_to	% no predictions	0.4166666666666667
+wordnet/wordnet_pra	similar_to	RR	1.0
+wordnet/wordnet_pra	similar_to	Predicted MAP	1.0
+wordnet/wordnet_pra	similar_to	Per Query MAP	0.5833333333333334
+wordnet/wordnet_pra	similar_to	AP	0.5384615384615384
+wordnet/wordnet_pra	similar_to	Predicted MRR	1.0
+wordnet/wordnet_pra	verb_group	Per Query MRR	0.8546255506607929
+wordnet/wordnet_pra	verb_group	__TIMESTAMP__	1.549913504E12
+wordnet/wordnet_pra	verb_group	% no predictions	0.13215859030837004
+wordnet/wordnet_pra	verb_group	RR	1.0
+wordnet/wordnet_pra	verb_group	Predicted MAP	0.9822335025380711
+wordnet/wordnet_pra	verb_group	Per Query MAP	0.8524229074889867
+wordnet/wordnet_pra	verb_group	AP	0.8527762093859185
+wordnet/wordnet_pra	verb_group	Predicted MRR	0.9847715736040609
+wordnet/wordnet_pra	synset_domain_topic_of	Per Query MRR	0.5366795366795367
+wordnet/wordnet_pra	synset_domain_topic_of	__TIMESTAMP__	1.549913228E12
+wordnet/wordnet_pra	synset_domain_topic_of	% no predictions	0.46332046332046334
+wordnet/wordnet_pra	synset_domain_topic_of	RR	1.0
+wordnet/wordnet_pra	synset_domain_topic_of	Predicted MAP	0.9964028776978417
+wordnet/wordnet_pra	synset_domain_topic_of	Per Query MAP	0.5347490347490348
+wordnet/wordnet_pra	synset_domain_topic_of	AP	0.5145100831945895
+wordnet/wordnet_pra	synset_domain_topic_of	Predicted MRR	1.0
+wordnet/wordnet_pra	instance_hypernym	Per Query MRR	0.5437352245862884
+wordnet/wordnet_pra	instance_hypernym	__TIMESTAMP__	1.549913562E12
+wordnet/wordnet_pra	instance_hypernym	% no predictions	0.4562647754137116
+wordnet/wordnet_pra	instance_hypernym	RR	1.0
+wordnet/wordnet_pra	instance_hypernym	Predicted MAP	0.9978260869565218
+wordnet/wordnet_pra	instance_hypernym	Per Query MAP	0.5425531914893617
+wordnet/wordnet_pra	instance_hypernym	AP	0.5221096093837578
+wordnet/wordnet_pra	instance_hypernym	Predicted MRR	1.0
+wordnet/wordnet_pra	hypernym	Per Query MRR	0.19412997903563942
+wordnet/wordnet_pra	hypernym	__TIMESTAMP__	1.549913182E12
+wordnet/wordnet_pra	hypernym	% no predictions	0.80041928721174
+wordnet/wordnet_pra	hypernym	RR	1.0
+wordnet/wordnet_pra	hypernym	Predicted MAP	0.9716386554621849
+wordnet/wordnet_pra	hypernym	Per Query MAP	0.19392033542976939
+wordnet/wordnet_pra	hypernym	AP	0.171041061307284
+wordnet/wordnet_pra	hypernym	Predicted MRR	0.9726890756302521
+wordnet/wordnet_pra	member_of_domain_usage	Per Query MRR	0.43333333333333335
+wordnet/wordnet_pra	member_of_domain_usage	__TIMESTAMP__	1.549913526E12
+wordnet/wordnet_pra	member_of_domain_usage	% no predictions	0.5333333333333333
+wordnet/wordnet_pra	member_of_domain_usage	RR	1.0
+wordnet/wordnet_pra	member_of_domain_usage	Predicted MAP	0.377891156462585
+wordnet/wordnet_pra	member_of_domain_usage	Per Query MAP	0.1763492063492063
+wordnet/wordnet_pra	member_of_domain_usage	AP	0.17975117975117974
+wordnet/wordnet_pra	member_of_domain_usage	Predicted MRR	0.9285714285714286
+wordnet/wordnet_pra	derivationally_related_form	Per Query MRR	0.8983630952380952
+wordnet/wordnet_pra	derivationally_related_form	__TIMESTAMP__	1.549913382E12
+wordnet/wordnet_pra	derivationally_related_form	% no predictions	0.09781746031746032
+wordnet/wordnet_pra	derivationally_related_form	RR	1.0
+wordnet/wordnet_pra	derivationally_related_form	Predicted MAP	0.9823546660801994
+wordnet/wordnet_pra	derivationally_related_form	Per Query MAP	0.8862632275132275
+wordnet/wordnet_pra	derivationally_related_form	AP	0.8863876175755162
+wordnet/wordnet_pra	derivationally_related_form	Predicted MRR	0.9957664394106004
+wordnet/wordnet_sfe	__DISPLAY_NAME__	wordnet_sfe	1.0
+wordnet/wordnet_sfe	member_of_domain_region	Per Query MRR	0.725
+wordnet/wordnet_sfe	member_of_domain_region	__TIMESTAMP__	1.549901629E12
+wordnet/wordnet_sfe	member_of_domain_region	% no predictions	0.275
+wordnet/wordnet_sfe	member_of_domain_region	RR	1.0
+wordnet/wordnet_sfe	member_of_domain_region	Predicted MAP	0.7829639317955273
+wordnet/wordnet_sfe	member_of_domain_region	Per Query MAP	0.5676488505517573
+wordnet/wordnet_sfe	member_of_domain_region	AP	0.48969209173416023
+wordnet/wordnet_sfe	member_of_domain_region	Predicted MRR	1.0
+wordnet/wordnet_sfe	has_part	Per Query MRR	0.5659133709981168
+wordnet/wordnet_sfe	has_part	__TIMESTAMP__	1.549901528E12
+wordnet/wordnet_sfe	has_part	% no predictions	0.416195856873823
+wordnet/wordnet_sfe	has_part	RR	1.0
+wordnet/wordnet_sfe	has_part	Predicted MAP	0.9304923254015999
+wordnet/wordnet_sfe	has_part	Per Query MAP	0.5432252747165649
+wordnet/wordnet_sfe	has_part	AP	0.5730176392239897
+wordnet/wordnet_sfe	has_part	Predicted MRR	0.9693548387096774
+wordnet/wordnet_sfe	member_meronym	Per Query MRR	0.49107142857142855
+wordnet/wordnet_sfe	member_meronym	__TIMESTAMP__	1.54990164E12
+wordnet/wordnet_sfe	member_meronym	% no predictions	0.49404761904761907
+wordnet/wordnet_sfe	member_meronym	RR	1.0
+wordnet/wordnet_sfe	member_meronym	Predicted MAP	0.9342296918767506
+wordnet/wordnet_sfe	member_meronym	Per Query MAP	0.4726757369614512
+wordnet/wordnet_sfe	member_meronym	AP	0.4764000692912871
+wordnet/wordnet_sfe	member_meronym	Predicted MRR	0.9705882352941176
+wordnet/wordnet_sfe	__DATASET__	__TIMESTAMP__	1.54990164E12
+wordnet/wordnet_sfe	__DATASET__	MMAP Predicted	0.8830838092848107
+wordnet/wordnet_sfe	__DATASET__	MMRR Predicted	0.979058376834526
+wordnet/wordnet_sfe	__DATASET__	MMAP	0.5004354465046684
+wordnet/wordnet_sfe	__DATASET__	MMRR	0.5513547570257852
+wordnet/wordnet_sfe	__DATASET__	MAP	0.4787643564823819
+wordnet/wordnet_sfe	__DATASET__	MRR	1.0
+wordnet/wordnet_sfe	also_see	Per Query MRR	0.4460093896713615
+wordnet/wordnet_sfe	also_see	__TIMESTAMP__	1.549901632E12
+wordnet/wordnet_sfe	also_see	% no predictions	0.5211267605633803
+wordnet/wordnet_sfe	also_see	RR	1.0
+wordnet/wordnet_sfe	also_see	Predicted MAP	0.8292483660130718
+wordnet/wordnet_sfe	also_see	Per Query MAP	0.3971048513302034
+wordnet/wordnet_sfe	also_see	AP	0.33912407088109325
+wordnet/wordnet_sfe	also_see	Predicted MRR	0.9313725490196079
+wordnet/wordnet_sfe	similar_to	Per Query MRR	0.16666666666666666
+wordnet/wordnet_sfe	similar_to	__TIMESTAMP__	1.549901632E12
+wordnet/wordnet_sfe	similar_to	% no predictions	0.8333333333333334
+wordnet/wordnet_sfe	similar_to	RR	1.0
+wordnet/wordnet_sfe	similar_to	Predicted MAP	0.75
+wordnet/wordnet_sfe	similar_to	Per Query MAP	0.125
+wordnet/wordnet_sfe	similar_to	AP	0.15384615384615385
+wordnet/wordnet_sfe	similar_to	Predicted MRR	1.0
+wordnet/wordnet_sfe	verb_group	Per Query MRR	0.6519823788546255
+wordnet/wordnet_sfe	verb_group	__TIMESTAMP__	1.549901637E12
+wordnet/wordnet_sfe	verb_group	% no predictions	0.3303964757709251
+wordnet/wordnet_sfe	verb_group	RR	1.0
+wordnet/wordnet_sfe	verb_group	Predicted MAP	0.9605263157894737
+wordnet/wordnet_sfe	verb_group	Per Query MAP	0.6431718061674009
+wordnet/wordnet_sfe	verb_group	AP	0.5918868668371087
+wordnet/wordnet_sfe	verb_group	Predicted MRR	0.9736842105263158
+wordnet/wordnet_sfe	synset_domain_topic_of	Per Query MRR	0.6785714285714286
+wordnet/wordnet_sfe	synset_domain_topic_of	__TIMESTAMP__	1.549901563E12
+wordnet/wordnet_sfe	synset_domain_topic_of	% no predictions	0.3204633204633205
+wordnet/wordnet_sfe	synset_domain_topic_of	RR	1.0
+wordnet/wordnet_sfe	synset_domain_topic_of	Predicted MAP	0.9957386363636364
+wordnet/wordnet_sfe	synset_domain_topic_of	Per Query MAP	0.6766409266409267
+wordnet/wordnet_sfe	synset_domain_topic_of	AP	0.6280918927415187
+wordnet/wordnet_sfe	synset_domain_topic_of	Predicted MRR	0.9985795454545454
+wordnet/wordnet_sfe	instance_hypernym	Per Query MRR	0.6217494089834515
+wordnet/wordnet_sfe	instance_hypernym	__TIMESTAMP__	1.549901639E12
+wordnet/wordnet_sfe	instance_hypernym	% no predictions	0.375886524822695
+wordnet/wordnet_sfe	instance_hypernym	RR	1.0
+wordnet/wordnet_sfe	instance_hypernym	Predicted MAP	0.9848484848484849
+wordnet/wordnet_sfe	instance_hypernym	Per Query MAP	0.6146572104018913
+wordnet/wordnet_sfe	instance_hypernym	AP	0.582866527777551
+wordnet/wordnet_sfe	instance_hypernym	Predicted MRR	0.9962121212121212
+wordnet/wordnet_sfe	hypernym	Per Query MRR	0.47620545073375264
+wordnet/wordnet_sfe	hypernym	__TIMESTAMP__	1.549901558E12
+wordnet/wordnet_sfe	hypernym	% no predictions	0.5203354297693921
+wordnet/wordnet_sfe	hypernym	RR	1.0
+wordnet/wordnet_sfe	hypernym	Predicted MAP	0.9925699300699301
+wordnet/wordnet_sfe	hypernym	Per Query MAP	0.4761006289308176
+wordnet/wordnet_sfe	hypernym	AP	0.44258167088412914
+wordnet/wordnet_sfe	hypernym	Predicted MRR	0.9927884615384616
+wordnet/wordnet_sfe	member_of_domain_usage	Per Query MRR	0.6666666666666666
+wordnet/wordnet_sfe	member_of_domain_usage	__TIMESTAMP__	1.549901637E12
+wordnet/wordnet_sfe	member_of_domain_usage	% no predictions	0.3333333333333333
+wordnet/wordnet_sfe	member_of_domain_usage	RR	1.0
+wordnet/wordnet_sfe	member_of_domain_usage	Predicted MAP	0.6666507936507937
+wordnet/wordnet_sfe	member_of_domain_usage	Per Query MAP	0.44443386243386246
+wordnet/wordnet_sfe	member_of_domain_usage	AP	0.5644768598564234
+wordnet/wordnet_sfe	member_of_domain_usage	Predicted MRR	1.0
+wordnet/wordnet_sfe	derivationally_related_form	Per Query MRR	0.5750661375661376
+wordnet/wordnet_sfe	derivationally_related_form	__TIMESTAMP__	1.549901628E12
+wordnet/wordnet_sfe	derivationally_related_form	% no predictions	0.3863095238095238
+wordnet/wordnet_sfe	derivationally_related_form	RR	1.0
+wordnet/wordnet_sfe	derivationally_related_form	Predicted MAP	0.8866534263236496
+wordnet/wordnet_sfe	derivationally_related_form	Per Query MAP	0.5441307634164778
+wordnet/wordnet_sfe	derivationally_related_form	AP	0.4244240782327869
+wordnet/wordnet_sfe	derivationally_related_form	Predicted MRR	0.9370621834249381
+wordnet/wordnet_pra_short	__DISPLAY_NAME__	wordnet_pra_short	1.0
+wordnet/wordnet_pra_short	member_of_domain_region	Per Query MRR	0.4875
+wordnet/wordnet_pra_short	member_of_domain_region	__TIMESTAMP__	1.549913926E12
+wordnet/wordnet_pra_short	member_of_domain_region	% no predictions	0.5
+wordnet/wordnet_pra_short	member_of_domain_region	RR	1.0
+wordnet/wordnet_pra_short	member_of_domain_region	Predicted MAP	0.691295862607338
+wordnet/wordnet_pra_short	member_of_domain_region	Per Query MAP	0.345647931303669
+wordnet/wordnet_pra_short	member_of_domain_region	AP	0.14363805184096343
+wordnet/wordnet_pra_short	member_of_domain_region	Predicted MRR	0.975
+wordnet/wordnet_pra_short	has_part	Per Query MRR	0.2401129943502825
+wordnet/wordnet_pra_short	has_part	__TIMESTAMP__	1.549913617E12
+wordnet/wordnet_pra_short	has_part	% no predictions	0.7495291902071564
+wordnet/wordnet_pra_short	has_part	RR	1.0
+wordnet/wordnet_pra_short	has_part	Predicted MAP	0.7937074829931973
+wordnet/wordnet_pra_short	has_part	Per Query MAP	0.1988005560039458
+wordnet/wordnet_pra_short	has_part	AP	0.17104754069275724
+wordnet/wordnet_pra_short	has_part	Predicted MRR	0.9586466165413534
+wordnet/wordnet_pra_short	member_meronym	Per Query MRR	0.35119047619047616
+wordnet/wordnet_pra_short	member_meronym	__TIMESTAMP__	1.549914067E12
+wordnet/wordnet_pra_short	member_meronym	% no predictions	0.6428571428571429
+wordnet/wordnet_pra_short	member_meronym	RR	1.0
+wordnet/wordnet_pra_short	member_meronym	Predicted MAP	0.9322222222222222
+wordnet/wordnet_pra_short	member_meronym	Per Query MAP	0.3329365079365079
+wordnet/wordnet_pra_short	member_meronym	AP	0.2883926041440166
+wordnet/wordnet_pra_short	member_meronym	Predicted MRR	0.9833333333333333
+wordnet/wordnet_pra_short	__DATASET__	__TIMESTAMP__	1.549914067E12
+wordnet/wordnet_pra_short	__DATASET__	MMAP Predicted	0.8716649429829585
+wordnet/wordnet_pra_short	__DATASET__	MMRR Predicted	0.9879210220735097
+wordnet/wordnet_pra_short	__DATASET__	MMAP	0.47394011638395006
+wordnet/wordnet_pra_short	__DATASET__	MMRR	0.5173720673924769
+wordnet/wordnet_pra_short	__DATASET__	MAP	0.43656247078174637
+wordnet/wordnet_pra_short	__DATASET__	MRR	1.0
+wordnet/wordnet_pra_short	also_see	Per Query MRR	0.687793427230047
+wordnet/wordnet_pra_short	also_see	__TIMESTAMP__	1.549913953E12
+wordnet/wordnet_pra_short	also_see	% no predictions	0.30985915492957744
+wordnet/wordnet_pra_short	also_see	RR	1.0
+wordnet/wordnet_pra_short	also_see	Predicted MAP	0.9824263038548754
+wordnet/wordnet_pra_short	also_see	Per Query MAP	0.6780125195618154
+wordnet/wordnet_pra_short	also_see	AP	0.6573181153173598
+wordnet/wordnet_pra_short	also_see	Predicted MRR	0.9965986394557823
+wordnet/wordnet_pra_short	similar_to	Per Query MRR	0.5833333333333334
+wordnet/wordnet_pra_short	similar_to	__TIMESTAMP__	1.549913981E12
+wordnet/wordnet_pra_short	similar_to	% no predictions	0.4166666666666667
+wordnet/wordnet_pra_short	similar_to	RR	1.0
+wordnet/wordnet_pra_short	similar_to	Predicted MAP	1.0
+wordnet/wordnet_pra_short	similar_to	Per Query MAP	0.5833333333333334
+wordnet/wordnet_pra_short	similar_to	AP	0.5384615384615384
+wordnet/wordnet_pra_short	similar_to	Predicted MRR	1.0
+wordnet/wordnet_pra_short	verb_group	Per Query MRR	0.8546255506607929
+wordnet/wordnet_pra_short	verb_group	__TIMESTAMP__	1.549913999E12
+wordnet/wordnet_pra_short	verb_group	% no predictions	0.13215859030837004
+wordnet/wordnet_pra_short	verb_group	RR	1.0
+wordnet/wordnet_pra_short	verb_group	Predicted MAP	0.9822335025380711
+wordnet/wordnet_pra_short	verb_group	Per Query MAP	0.8524229074889867
+wordnet/wordnet_pra_short	verb_group	AP	0.8518560794006225
+wordnet/wordnet_pra_short	verb_group	Predicted MRR	0.9847715736040609
+wordnet/wordnet_pra_short	synset_domain_topic_of	Per Query MRR	0.5115830115830116
+wordnet/wordnet_pra_short	synset_domain_topic_of	__TIMESTAMP__	1.54991376E12
+wordnet/wordnet_pra_short	synset_domain_topic_of	% no predictions	0.48841698841698844
+wordnet/wordnet_pra_short	synset_domain_topic_of	RR	1.0
+wordnet/wordnet_pra_short	synset_domain_topic_of	Predicted MAP	0.9962264150943396
+wordnet/wordnet_pra_short	synset_domain_topic_of	Per Query MAP	0.5096525096525096
+wordnet/wordnet_pra_short	synset_domain_topic_of	AP	0.4872886618501864
+wordnet/wordnet_pra_short	synset_domain_topic_of	Predicted MRR	1.0
+wordnet/wordnet_pra_short	instance_hypernym	Per Query MRR	0.5484633569739953
+wordnet/wordnet_pra_short	instance_hypernym	__TIMESTAMP__	1.549914043E12
+wordnet/wordnet_pra_short	instance_hypernym	% no predictions	0.4515366430260047
+wordnet/wordnet_pra_short	instance_hypernym	RR	1.0
+wordnet/wordnet_pra_short	instance_hypernym	Predicted MAP	0.9913793103448276
+wordnet/wordnet_pra_short	instance_hypernym	Per Query MAP	0.5437352245862884
+wordnet/wordnet_pra_short	instance_hypernym	AP	0.5183422975815685
+wordnet/wordnet_pra_short	instance_hypernym	Predicted MRR	1.0
+wordnet/wordnet_pra_short	hypernym	Per Query MRR	0.1969601677148847
+wordnet/wordnet_pra_short	hypernym	__TIMESTAMP__	1.549913724E12
+wordnet/wordnet_pra_short	hypernym	% no predictions	0.7974842767295598
+wordnet/wordnet_pra_short	hypernym	RR	1.0
+wordnet/wordnet_pra_short	hypernym	Predicted MAP	0.9720496894409938
+wordnet/wordnet_pra_short	hypernym	Per Query MAP	0.1968553459119497
+wordnet/wordnet_pra_short	hypernym	AP	0.17317443161449206
+wordnet/wordnet_pra_short	hypernym	Predicted MRR	0.972567287784679
+wordnet/wordnet_pra_short	member_of_domain_usage	Per Query MRR	0.3333333333333333
+wordnet/wordnet_pra_short	member_of_domain_usage	__TIMESTAMP__	1.54991402E12
+wordnet/wordnet_pra_short	member_of_domain_usage	% no predictions	0.6666666666666666
+wordnet/wordnet_pra_short	member_of_domain_usage	RR	1.0
+wordnet/wordnet_pra_short	member_of_domain_usage	Predicted MAP	0.26428571428571423
+wordnet/wordnet_pra_short	member_of_domain_usage	Per Query MAP	0.08809523809523807
+wordnet/wordnet_pra_short	member_of_domain_usage	AP	0.09009009009009009
+wordnet/wordnet_pra_short	member_of_domain_usage	Predicted MRR	1.0
+wordnet/wordnet_pra_short	derivationally_related_form	Per Query MRR	0.89619708994709
+wordnet/wordnet_pra_short	derivationally_related_form	__TIMESTAMP__	1.5499139E12
+wordnet/wordnet_pra_short	derivationally_related_form	% no predictions	0.1003968253968254
+wordnet/wordnet_pra_short	derivationally_related_form	RR	1.0
+wordnet/wordnet_pra_short	derivationally_related_form	Predicted MAP	0.9824878694309661
+wordnet/wordnet_pra_short	derivationally_related_form	Per Query MAP	0.8838492063492064
+wordnet/wordnet_pra_short	derivationally_related_form	AP	0.8825777676056157
+wordnet/wordnet_pra_short	derivationally_related_form	Predicted MRR	0.9962137920893988

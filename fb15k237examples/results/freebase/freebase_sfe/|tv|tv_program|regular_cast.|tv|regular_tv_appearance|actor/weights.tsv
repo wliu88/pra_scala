@@ -1,0 +1,16 @@
+-|tv|tv_program|program_creator-_|tv|tv_program|program_creator-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.8764914461832808
+-|tv|tv_program|country_of_origin-_|tv|tv_program|country_of_origin-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.5705925615785744
+-_|tv|tv_writer|tv_programs.|tv|tv_program_writer_relationship|tv_program-|tv|tv_writer|tv_programs.|tv|tv_program_writer_relationship|tv_program-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.3514141168969169
+-|tv|tv_program|country_of_origin-|location|country|official_language-_|tv|tv_program|languages-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.3485351436079292
+-_|tv|tv_network|programs.|tv|tv_network_duration|program-|tv|tv_network|programs.|tv|tv_network_duration|program-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.29468177608880797
+-|tv|tv_program|languages-_|location|country|official_language-_|tv|tv_program|country_of_origin-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.13350488170052363
+-|tv|tv_program|languages-_|tv|tv_program|languages-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	0.03427211645144547
+!!!!NULL FEATURE!!!!	0.0
+-|tv|tv_program|genre-_|tv|tv_program|genre-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.0020894383114158
+-|tv|tv_program|tv_producer.|tv|tv_producer_term|producer_type-_|tv|tv_program|tv_producer.|tv|tv_producer_term|producer_type-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.029311467795718513
+-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-_|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.0734400781019525
+-_|tv|tv_producer|programs_produced.|tv|tv_producer_term|program-|tv|tv_producer|programs_produced.|tv|tv_producer_term|producer_type-_|tv|tv_program|tv_producer.|tv|tv_producer_term|producer_type-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.15482396243565227
+-|tv|tv_program|country_of_origin-_|language|human_language|countries_spoken_in-_|tv|tv_program|languages-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.20406948718642276
+-_|tv|tv_producer|programs_produced.|tv|tv_producer_term|program-|tv|tv_producer|programs_produced.|tv|tv_producer_term|program-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.42520441736096337
+-|tv|tv_program|languages-|language|human_language|countries_spoken_in-_|tv|tv_program|country_of_origin-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.4453451271609465
+-_|tv|tv_personality|tv_regular_appearances.|tv|tv_regular_personal_appearance|program-|tv|tv_personality|tv_regular_appearances.|tv|tv_regular_personal_appearance|program-|tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor-	-0.45418837540610785

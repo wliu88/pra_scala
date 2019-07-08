@@ -1,0 +1,222 @@
+object:water.n.06	location:counter.n.01	1.1928742451570484	*
+object:water.n.06	location:table.n.02	1.0676094500395945	*
+object:water.n.06	location:sink.n.01	0.7709123382283657	*
+object:water.n.06	location:oven.n.01	0.41052550963515155	
+object:water.n.06	location:microwave.n.02	0.37009355218763357	
+object:water.n.06	location:skillet.n.01	0.2906977341485234	
+object:water.n.06	location:lid.n.02	0.1335800781105478	
+object:water.n.06	location:cup.n.01	0.11378101530895922	*
+object:water.n.06	location:spoon.n.01	0.10821427978948996	*
+object:water.n.06	location:tomato.n.01	0.04575823657661574	*
+object:water.n.06	location:omelet.n.01	0.029323801332388707	
+object:water.n.06	location:scrub_brush.n.01	0.021192582151431726	*
+object:water.n.06	location:soap.n.01	0.017480533073726122	*
+
+object:plate.n.04	location:napkin.n.01	0.5923643514379282	
+
+object:table.n.02	location:faucet.n.01	0.008438490927141882	
+
+object:toaster.n.02	location:napkin.n.01	0.6697121396234564	
+object:toaster.n.02	location:microwave.n.02	0.2228197785621071	
+
+object:potato.n.01	location:towel.n.01	0.4564813176994619	
+
+object:drinking_glass.n.01	location:table.n.02	1.4733101808978089	*
+object:drinking_glass.n.01	location:counter.n.01	1.4226428837533647	*
+object:drinking_glass.n.01	location:sink.n.01	0.8544419383533743	*
+object:drinking_glass.n.01	location:towel.n.01	0.5588060191856035	*
+object:drinking_glass.n.01	location:napkin.n.01	0.5399239537786137	*
+object:drinking_glass.n.01	location:box.n.01	0.21832764121359163	
+object:drinking_glass.n.01	location:microwave.n.02	0.15035049296156738	*
+object:drinking_glass.n.01	location:oven.n.01	0.13608562995522525	
+
+object:sandwich.n.01	location:pot.n.01	0.05779619291345384	
+object:sandwich.n.01	location:water.n.06	-0.06620023622216203	
+object:sandwich.n.01	location:bag.n.01	-0.07616451083587307	
+
+object:credit_card.n.01	location:sandwich.n.01	0.13766277394929372	
+
+object:bag.n.01	location:microwave.n.02	0.3971786651567053	
+object:bag.n.01	location:container.n.01	0.3355840779880535	
+object:bag.n.01	location:basket.n.01	-0.16160032453328227	
+
+object:bowl.n.01	location:sink.n.01	1.1622253579772102	*
+object:bowl.n.01	location:kitchen_stove.n.01	0.9155419260654327	*
+
+object:hanger.n.02	location:table.n.02	1.9828675511733185	
+object:hanger.n.02	location:cutting_board.n.01	0.6488413278941021	
+object:hanger.n.02	location:bread.n.01	0.17689100875664782	
+
+object:fork.n.01	location:table.n.02	1.442793021375955	*
+object:fork.n.01	location:counter.n.01	1.2527686331838748	*
+object:fork.n.01	location:sink.n.01	0.8218027646352637	*
+object:fork.n.01	location:dish.n.01	0.6334304718946909	*
+object:fork.n.01	location:kitchen_stove.n.01	0.631681072188304	*
+object:fork.n.01	location:napkin.n.01	0.49578286593230764	*
+object:fork.n.01	location:bowl.n.01	0.4145576918777826	*
+object:fork.n.01	location:cutting_board.n.01	0.41427677156956866	*
+object:fork.n.01	location:towel.n.01	0.41011386285710166	*
+object:fork.n.01	location:plate.n.04	0.35712203386089025	*
+object:fork.n.01	location:box.n.01	0.2696167452814295	
+object:fork.n.01	location:skillet.n.01	0.25432973276468807	*
+object:fork.n.01	location:fork.n.01	0.19213828301854918	*
+object:fork.n.01	location:omelet.n.01	0.06391073353993491	*
+
+object:napkin.n.01	location:cabinet.n.01	1.0131473805167712	
+
+object:lid.n.02	location:plate.n.04	0.5890487772305112	
+object:lid.n.02	location:chair.n.01	0.26933594377935366	
+object:lid.n.02	location:bread.n.01	0.24133504689070262	
+object:lid.n.02	location:bag.n.01	-0.17652872742004594	
+
+object:plunger.n.03	location:container.n.01	0.27717717833809147	
+
+object:tomato.n.01	location:towel.n.01	0.45134187511591817	
+
+object:sink.n.01	location:table.n.02	1.5693011060617297	
+object:sink.n.01	location:cabinet.n.01	0.44702127834410627	*
+
+object:scrub_brush.n.01	location:oven.n.01	0.1938891615348325	
+
+object:watering_can.n.01	location:fork.n.01	0.20164292200548306	
+object:watering_can.n.01	location:spoon.n.01	0.19834529653548363	
+
+object:dish.n.01	location:basket.n.01	-0.15481538653311588	
+
+object:counter.n.01	location:sandwich.n.01	0.01255745014346693	
+
+object:pot.n.01	location:table.n.02	1.4959707298088327	*
+object:pot.n.01	location:counter.n.01	1.4335769623938608	*
+object:pot.n.01	location:kitchen_stove.n.01	0.6994582415654294	*
+object:pot.n.01	location:sink.n.01	0.6318192248775291	*
+object:pot.n.01	location:towel.n.01	0.41827001606803793	*
+object:pot.n.01	location:oven.n.01	0.40786604282619404	*
+object:pot.n.01	location:plate.n.04	0.40579226778867084	*
+object:pot.n.01	location:napkin.n.01	0.401122962049796	*
+object:pot.n.01	location:container.n.01	0.19743144806911	
+object:pot.n.01	location:box.n.01	0.13431404601885474	*
+
+object:chair.n.01	location:counter.n.01	0.5236898013561556	
+
+object:lettuce.n.02	location:trash_can.n.01	0.18659637992750147	
+object:lettuce.n.02	location:water.n.06	-0.13884503743940602	
+
+object:cellphone.n.01	location:dish.n.01	0.3824670702974531	
+object:cellphone.n.01	location:oven.n.01	0.28510502891771894	
+
+object:switch.n.01	location:kitchen_stove.n.01	0.04080535614001127	*
+object:switch.n.01	location:toaster.n.02	0.0031062412728536893	*
+object:switch.n.01	location:coffee_maker.n.01	0.0029629407005797477	*
+object:switch.n.01	location:fork.n.01	0.002396501715813794	
+object:switch.n.01	location:microwave.n.02	-0.016719706254851023	*
+object:switch.n.01	location:oven.n.01	-0.016969074920510387	*
+object:switch.n.01	location:refrigerator.n.01	-0.0400455577419332	*
+
+object:alarm_clock.n.01	location:counter.n.01	0.3159519421280862	*
+object:alarm_clock.n.01	location:table.n.02	0.29164605973595986	*
+object:alarm_clock.n.01	location:kitchen_stove.n.01	0.1454467524768699	*
+object:alarm_clock.n.01	location:book.n.01	0.04264500875321924	*
+object:alarm_clock.n.01	location:cabinet.n.01	-0.2208036417450711	*
+
+object:towel.n.01	location:oven.n.01	0.25483269932060404	
+object:towel.n.01	location:bag.n.01	-0.20276174942600422	
+
+object:box.n.01	location:table.n.02	1.4469250654507608	*
+object:box.n.01	location:counter.n.01	1.2047201304713964	*
+object:box.n.01	location:trash_can.n.01	0.2741851508517231	*
+object:box.n.01	location:container.n.01	0.1718293135458534	*
+object:box.n.01	location:box.n.01	0.08918887936032019	*
+object:box.n.01	location:potato.n.01	0.04890595509473999	
+
+object:kitchen_stove.n.01	location:refrigerator.n.01	-0.09871354274020534	
+
+object:container.n.01	location:table.n.02	1.4323319973994784	*
+object:container.n.01	location:counter.n.01	1.124746449485552	*
+object:container.n.01	location:kitchen_stove.n.01	0.7021188642859982	*
+object:container.n.01	location:cabinet.n.01	0.6547534676067835	*
+object:container.n.01	location:cutting_board.n.01	0.5479892711727303	*
+object:container.n.01	location:microwave.n.02	0.43285998280049526	*
+object:container.n.01	location:oven.n.01	0.41589808104657316	*
+object:container.n.01	location:chair.n.01	0.3522043317808813	*
+object:container.n.01	location:box.n.01	0.2312391247130523	
+object:container.n.01	location:container.n.01	0.20718475556682664	*
+object:container.n.01	location:toaster.n.02	0.05440156729295691	*
+
+object:jar.n.01	location:container.n.01	0.27356092450652814	
+object:jar.n.01	location:skillet.n.01	0.2411495201718877	
+object:jar.n.01	location:bag.n.01	-0.10369368996539821	
+
+object:soap.n.01	location:cutting_board.n.01	0.5204582258033011	
+object:soap.n.01	location:book.n.01	0.19534701825901843	
+object:soap.n.01	location:water.n.06	0.004087240907402603	
+
+object:omelet.n.01	location:omelet.n.01	0.20994273495353913	
+
+object:water_bottle.n.01	location:box.n.01	0.026869548880535964	
+object:water_bottle.n.01	location:bag.n.01	-0.21298429189776574	
+
+object:knob.n.02	location:bag.n.01	-0.09815889716345169	
+
+object:candle.n.01	location:chair.n.01	0.29883833466590504	
+
+object:skillet.n.01	location:pot.n.01	0.019368778111969367	
+
+object:bread.n.01	location:container.n.01	0.4047942914344141	
+object:bread.n.01	location:fork.n.01	0.38460154411909214	
+
+object:apple.n.01	location:fork.n.01	0.21741283788909263	
+object:apple.n.01	location:soap.n.01	0.10612502076878019	
+
+object:aluminum_foil.n.01	location:table.n.02	1.6109955243904375	*
+object:aluminum_foil.n.01	location:counter.n.01	1.499498437817251	*
+object:aluminum_foil.n.01	location:kitchen_stove.n.01	0.64067467047919	*
+object:aluminum_foil.n.01	location:plate.n.04	0.6009079644717772	*
+object:aluminum_foil.n.01	location:dish.n.01	0.4277283831418855	*
+object:aluminum_foil.n.01	location:cutting_board.n.01	0.4132715304084384	*
+object:aluminum_foil.n.01	location:container.n.01	0.40402702248796	*
+object:aluminum_foil.n.01	location:towel.n.01	0.378371419353678	*
+object:aluminum_foil.n.01	location:bowl.n.01	0.22647550961047733	
+object:aluminum_foil.n.01	location:bread.n.01	0.19277092806864563	
+object:aluminum_foil.n.01	location:skillet.n.01	0.18301738499354245	*
+object:aluminum_foil.n.01	location:oven.n.01	0.16492908736427223	*
+object:aluminum_foil.n.01	location:spoon.n.01	0.16374369551035778	*
+object:aluminum_foil.n.01	location:sandwich.n.01	0.06100170567407709	*
+object:aluminum_foil.n.01	location:potato.n.01	0.008264564714617657	*
+object:aluminum_foil.n.01	location:refrigerator.n.01	-0.005574110158786082	
+
+object:mug.n.04	location:water.n.06	-0.1378990037689416	
+
+object:egg.n.02	location:napkin.n.01	0.46459623020985175	
+object:egg.n.02	location:bag.n.01	-0.1324396484800705	
+object:egg.n.02	location:water.n.06	-0.15386407868614943	
+
+object:knife.n.01	location:table.n.02	1.5922241905487409	*
+object:knife.n.01	location:counter.n.01	1.3132520531009202	*
+object:knife.n.01	location:kitchen_stove.n.01	0.614259680409212	*
+object:knife.n.01	location:sink.n.01	0.5780240816037325	*
+object:knife.n.01	location:cutting_board.n.01	0.5753771356870298	*
+object:knife.n.01	location:dish.n.01	0.5560025274851961	*
+object:knife.n.01	location:plate.n.04	0.5062975620121833	*
+object:knife.n.01	location:napkin.n.01	0.49435391658532746	*
+object:knife.n.01	location:bowl.n.01	0.43393932427361204	*
+object:knife.n.01	location:container.n.01	0.4279226387336819	*
+object:knife.n.01	location:skillet.n.01	0.36570339154722376	*
+object:knife.n.01	location:bread.n.01	0.15844103453380262	*
+object:knife.n.01	location:sandwich.n.01	0.08784866933258768	*
+object:knife.n.01	location:box.n.01	0.06779704219894436	*
+object:knife.n.01	location:knife.n.01	0.06773917722976047	*
+object:knife.n.01	location:tomato.n.01	0.05652799796708939	*
+object:knife.n.01	location:potato.n.01	0.03012415955583736	*
+
+object:book.n.01	location:napkin.n.01	0.454123448641036	
+object:book.n.01	location:skillet.n.01	0.31273313873503894	
+object:book.n.01	location:fork.n.01	0.23692892612262828	
+
+object:microwave.n.02	location:napkin.n.01	0.5328141316239781	
+
+object:cup.n.01	location:refrigerator.n.01	0.34263652629867886	
+object:cup.n.01	location:box.n.01	0.2974254450866792	
+object:cup.n.01	location:bread.n.01	0.2934647777334652	
+
+object:basket.n.01	location:potato.n.01	0.03542124148590211	
+

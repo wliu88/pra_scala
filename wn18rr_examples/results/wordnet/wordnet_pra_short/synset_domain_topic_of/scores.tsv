@@ -1,0 +1,995 @@
+synset:marketplace.n.01	synset:shop.v.01	-0.03496555290898403	
+
+synset:usance.n.03	synset:psychology.n.01	1.5694241291912112	
+
+synset:slice.v.02	synset:golf_game.n.01	1.195715994199751	*
+
+synset:sit.v.06	synset:prance.v.03	-0.41997419442684375	
+
+synset:convert.v.11	synset:chemistry.n.01	2.188587310812044	*
+
+synset:passer.n.04	synset:football_game.n.01	2.7458502811336047	*
+
+synset:devil.v.02	synset:preparation.n.08	3.47401074986594	*
+
+synset:slugger.n.01	synset:baseball_game.n.01	7.872771456048823	*
+
+synset:inning.n.01	synset:slugger.n.01	-0.027035292808194573	
+
+synset:position.n.02	synset:war_machine.n.01	1.5694241291912112	*
+
+synset:bioterrorism.n.01	synset:terrorist_act.n.01	2.9149434051543093	*
+
+synset:fractionate.v.01	synset:chemistry.n.01	5.841609029278775	*
+
+synset:revolutionary_organization_of_socialist_muslims.n.01	synset:salafist_group.n.01	0.0	
+synset:revolutionary_organization_of_socialist_muslims.n.01	synset:red_brigades.n.01	0.0	
+
+synset:music.n.04	synset:music.n.01	2.5472989449091052	*
+
+synset:psychoneurosis.n.01	synset:psychopathology.n.02	2.7458502811336047	
+
+synset:lead.v.10	synset:music.n.03	2.4683482985435043	*
+
+synset:set.v.11	synset:organ.n.03	-0.021399590602925043	
+
+synset:vote.n.03	synset:law.n.01	2.7458502811336047	*
+
+synset:football_game.n.01	synset:football_game.n.01	-2.2400829338023773	
+
+synset:ski.v.01	synset:sport.n.01	0.26799571235870634	*
+
+synset:strikeout.n.01	synset:baseball_game.n.01	1.174575964793208	*
+
+synset:education.n.03	synset:teaching.n.03	2.4707374661145947	*
+
+synset:monopsony.n.01	synset:use_of_goods_and_services.n.01	-0.10894337034216386	
+
+synset:offering.n.01	synset:overbid.v.02	-0.320266006973355	
+
+synset:infliction.n.01	synset:taxation.n.01	-0.1735692684116982	*
+
+synset:rape_conviction.n.01	synset:law.n.01	3.501739697299271	*
+
+synset:vaccinate.v.01	synset:practice_of_medicine.n.01	2.7458502811336047	*
+
+synset:factor_out.v.02	synset:arithmetic.n.01	1.167439424245371	*
+
+synset:parole.n.03	synset:law.n.01	3.501739697299271	*
+
+synset:projection.n.06	synset:psychopathology.n.02	6.247589978432876	*
+
+synset:deal.v.13	synset:mercantilism.n.02	5.684935385948781	*
+
+synset:summation.n.04	synset:recalculate.v.01	-0.06648787443686506	
+
+synset:reversal.n.05	synset:law.n.01	5.858507789844067	*
+
+synset:beatification.n.03	synset:western_church.n.01	1.6587188039838652	*
+
+synset:index.v.02	synset:publishing.n.01	0.250124264092805	*
+
+synset:thomas_aquinas.n.01	synset:st._ignatius_of_loyola.n.01	-0.011634728871493227	
+
+synset:vacate.v.03	synset:law.n.01	1.174575964793208	
+
+synset:brynhild.n.01	synset:norse_mythology.n.01	0.02804827236040623	*
+
+synset:fraction.v.01	synset:maths.n.01	4.727967090925645	
+
+synset:starboard.v.01	synset:seafaring.n.01	0.33168789098297813	*
+
+synset:riding.n.01	synset:sport.n.01	-0.7817464494613243	
+
+synset:astrologist.n.01	synset:star_divination.n.01	-0.18950067487763278	
+
+synset:tramp.n.06	synset:triton.n.03	-0.01501845633462984	
+
+synset:atmospheric_state.n.01	synset:cyclone.n.01	-0.4272443603292119	
+
+synset:sink.n.02	synset:technology.n.02	0.50024852818561	*
+
+synset:young_woman.n.01	synset:longueur.n.01	-0.06509644985961105	
+
+synset:palliate.v.01	synset:use.n.07	-0.008559836241170017	
+
+synset:notary_public.n.01	synset:law.n.01	-0.016801753838625574	*
+
+synset:mantra.n.02	synset:hinduism.n.02	0.8087206065406258	*
+
+synset:therapy.n.01	synset:medicine.n.01	0.951345719484218	*
+
+synset:rotational_latency.n.01	synset:utility_program.n.01	-0.030173048437201408	
+
+synset:assist.n.02	synset:ice_hockey.n.01	1.2256088940547447	*
+
+synset:operate.v.03	synset:cell_phone.v.01	-0.04535408391858147	
+
+synset:realism.n.05	synset:philosophize.v.01	-0.08141878866284571	
+
+synset:statistics.n.01	synset:mean_value.n.01	-0.06854895445143278	
+synset:statistics.n.01	synset:statistics.n.01	-2.2717122312474736	
+
+synset:commando.n.02	synset:war_machine.n.01	5.908711943210365	*
+
+synset:general.n.01	synset:casualty.n.04	-0.008750128522692297	
+
+synset:tacking.n.02	synset:seafaring.n.01	2.3398693319795036	*
+
+synset:hook.v.03	synset:handicraft.n.02	2.3398693319795036	*
+
+synset:dark_matter.n.01	synset:cosmic_microwave_background_radiation.n.01	-0.2159041594850264	
+
+synset:drive.n.12	synset:squash_racquets.n.01	1.350546652150919	*
+
+synset:retreat.n.01	synset:war_machine.n.01	5.071163826490482	*
+
+synset:rerun.v.01	synset:broadcasting.n.01	4.2778613987020355	*
+
+synset:open.v.09	synset:chess_game.n.01	1.3617876600608276	*
+synset:open.v.09	synset:castle.v.01	-0.1349483341075897	
+
+synset:ring.n.04	synset:chemistry.n.01	2.7458502811336047	*
+
+synset:stadium.n.01	synset:sibyl.n.02	-0.034582488987918374	
+
+synset:fluctuation.n.01	synset:physics.n.01	4.744880911580099	
+
+synset:hit.n.01	synset:baseball_game.n.01	1.5694241291912112	*
+
+synset:play_along.v.02	synset:music.n.03	0.16724917851180535	*
+
+synset:lithograph.v.01	synset:artistic_production.n.01	3.501739697299271	*
+
+synset:chorion.n.01	synset:mammalian.n.01	2.1010438183795626	*
+
+synset:stupid_person.n.01	synset:shtik.n.03	-0.0197614222788105	
+
+synset:territorial.n.01	synset:war_machine.n.01	3.501739697299271	*
+
+synset:term.n.05	synset:logic.n.01	1.961728397374162	
+
+synset:pyramid.v.02	synset:offense.n.03	1.8157168800811034	*
+
+synset:fire.v.03	synset:preparation.n.08	2.7458502811336047	*
+
+synset:psyche.n.01	synset:id.n.03	-0.1865669450440181	
+
+synset:crumb.n.03	synset:preparation.n.08	1.174575964793208	
+
+synset:wedlock.n.01	synset:law.n.01	4.315274410324816	*
+
+synset:zest.v.01	synset:crumb.v.01	-0.028689588737366267	
+
+synset:moral_hazard.n.01	synset:monopsony.n.01	-0.10785393663874221	
+
+synset:appeal.n.03	synset:suit.n.02	-0.08137984155995982	
+
+synset:signal_caller.n.01	synset:football_game.n.01	3.9204262459268127	*
+
+synset:printing.n.02	synset:printing_process.n.01	-0.00872926692148212	*
+
+synset:general_anatomy.n.01	synset:fundus.n.01	-0.003148933811883133	
+
+synset:philosophy.n.02	synset:esthetics.n.01	-0.20096409692851366	
+
+synset:antagonism.n.04	synset:complementary_dna.n.01	-0.038400116458132676	
+
+synset:reproduce.v.02	synset:species.n.01	-0.019054936956827882	
+
+synset:compensation.n.02	synset:psychopathology.n.02	10.156883439603591	*
+
+synset:captain.n.01	synset:aircraft.n.01	0.02180374184300707	
+
+synset:amniotic_sac.n.01	synset:mammalian.n.01	1.96972857973084	*
+
+synset:lock.v.09	synset:erection.n.03	-0.005918799647697645	
+
+synset:military_expedition.n.01	synset:war_machine.n.01	2.7458502811336047	*
+
+synset:gallop.v.03	synset:riding.n.02	4.859492647853334	*
+synset:gallop.v.03	synset:gallop.v.03	-0.2969463864642137	
+
+synset:doctor_of_the_church.n.01	synset:st._francis_of_assisi.n.01	-0.023652179087443468	
+
+synset:displacement.n.05	synset:psychopathology.n.02	6.247589978432876	*
+
+synset:collection.n.01	synset:reshuffling.n.01	-0.024057383643769303	
+
+synset:psychotic_belief.n.01	synset:suppression.n.04	-0.02396754147527605	
+
+synset:plea.n.02	synset:law.n.01	2.7458502811336047	*
+
+synset:trunk.n.03	synset:zone.n.04	-0.0054243186511384435	
+
+synset:punt.v.01	synset:sport.n.01	2.7458502811336047	*
+
+synset:travel.v.01	synset:riding.n.01	-0.04062954513107146	
+
+synset:retire.v.09	synset:baseball_game.n.01	1.174575964793208	*
+
+synset:body_process.n.01	synset:wart.n.03	-0.06714221758393288	
+
+synset:tonality.n.01	synset:music.n.04	0.4912054584349659	
+
+synset:scramble.v.04	synset:mixture.n.02	-0.005285205582142123	
+
+synset:shipboard_soldier.n.01	synset:war_machine.n.01	6.247589978432876	*
+
+synset:market.v.01	synset:merchant.n.01	0.07190794996989472	
+
+synset:heliosphere.n.01	synset:uranology.n.01	0.3498367909674695	
+
+synset:tanzim.n.01	synset:revolutionary_people's_struggle.n.01	-0.011865119542215866	
+
+synset:sleigh.v.01	synset:sport.n.01	1.6577740482966876	*
+
+synset:software_system.n.01	synset:value.n.01	-0.006691274752647049	
+
+synset:activity.n.01	synset:game.n.01	0.27880265908052704	
+
+synset:operation.n.04	synset:hardware.n.03	-0.03234172338732574	
+
+synset:isolde.n.01	synset:middle_ages.n.01	0.15206712259738264	*
+
+synset:reserves.n.01	synset:war_machine.n.01	7.355243014528983	*
+synset:reserves.n.01	synset:onslaught.n.02	-0.002603672952546453	
+
+synset:stage.v.01	synset:theatrical.a.01	0.09871830199267839	
+
+synset:moral_philosophy.n.01	synset:deconstructionism.n.01	-0.0013638819482849605	
+
+synset:mp.n.01	synset:war_machine.n.01	1.5694241291912112	*
+
+synset:baader_meinhof_gang.n.01	synset:ctc.n.01	-0.01762319226123239	
+
+synset:play.v.01	synset:golf_game.n.01	0.1986612821761027	
+
+synset:etch.v.01	synset:artistic_production.n.01	7.411033158469985	*
+
+synset:statement.n.06	synset:trillion_floating_point_operations_per_second.n.01	-0.017795673102351646	
+
+synset:ip.n.01	synset:molecular_biology.n.01	-0.015626748127335176	
+
+synset:official_document.n.01	synset:law.n.01	1.5694241291912112	*
+
+synset:unconscious_mind.n.01	synset:pleasure_principle.n.01	-0.010414691810185813	
+
+synset:drag_a_bunt.v.01	synset:base.n.03	-0.007844942813448264	
+
+synset:pallas_athene.n.01	synset:chimera.n.01	-0.04866276389791763	
+
+synset:portrayal.n.05	synset:sculpture.v.01	-0.02059363709218809	
+
+synset:charge.v.15	synset:artistic_production.n.01	6.247589978432876	*
+
+synset:greek_chorus.n.01	synset:vocalizing.n.01	0.2022354103322231	*
+
+synset:afghanistani.n.01	synset:afghanistani.a.01	0.03620288502123742	
+
+synset:exposition.n.02	synset:collection.n.01	-0.7335259557225513	
+
+synset:crib.v.02	synset:offense.n.03	2.7458502811336047	*
+
+synset:stripes.n.01	synset:deserter.n.02	-0.005991885368819012	
+
+synset:trial_impression.n.01	synset:printing_process.n.01	2.7458502811336047	*
+
+synset:nebula.n.04	synset:pathology.n.01	3.501739697299271	*
+
+synset:draw.v.06	synset:artistic_production.n.01	7.841589549892307	*
+
+synset:broadcast.v.02	synset:husbandry.n.01	6.247589978432876	*
+
+synset:judaism.n.02	synset:judaism.n.01	-0.029342850576629987	
+
+synset:turn.n.03	synset:activity.n.01	-1.0541939476913273	
+
+synset:soar.v.05	synset:aviation.n.04	5.085719613113108	*
+
+synset:abstinence.n.02	synset:psychology.n.01	0.7722563175385324	
+
+synset:metrical_unit.n.01	synset:prosody.n.03	2.7458502811336047	*
+
+synset:rhine_river.n.01	synset:styx.n.01	0.0	
+
+synset:watercolour.n.03	synset:longueur.n.01	-0.025280972623872796	
+
+synset:pure_mathematics.n.01	synset:range_of_a_function.n.01	-0.009409086493936663	
+
+synset:pardon.n.03	synset:law.n.01	7.016184994071983	*
+
+synset:ghq.n.01	synset:war_machine.n.01	6.247589978432876	*
+
+synset:menu.n.03	synset:computing.n.01	1.5694241291912112	*
+
+synset:turn.v.12	synset:husbandry.n.01	8.148701998607066	*
+
+synset:conveyancer.n.01	synset:law.n.01	9.762035275205587	*
+
+synset:prosecute.v.02	synset:legitimation.n.02	-0.007950064089216332	
+
+synset:develop.v.15	synset:picture_taking.n.01	1.5694241291912112	*
+
+synset:pisces.n.04	synset:cytology.n.01	0.09270222355253514	
+
+synset:dean.n.04	synset:western_church.n.01	2.7458502811336047	*
+
+synset:plot.v.02	synset:interconnection.n.02	-0.062109875697002596	
+
+synset:meteorology.n.02	synset:meteorology.n.02	0.7059947946183844	
+synset:meteorology.n.02	synset:natural_process.n.01	-0.1420586885013245	
+
+synset:rna.n.01	synset:biochemistry.n.01	4.842842046548663	*
+
+synset:baseball_game.n.01	synset:hit.v.01	-0.04844565530942605	
+synset:baseball_game.n.01	synset:softball_game.n.01	-0.09730527513208014	
+
+synset:force.n.02	synset:biology.n.01	1.5694241291912112	
+
+synset:overplay.v.01	synset:theatre.n.02	6.247589978432876	*
+
+synset:play.v.26	synset:performing_arts.n.01	3.324326128175839	*
+
+synset:spike.v.05	synset:zest.v.01	-0.028782355493614437	
+
+synset:tt.n.01	synset:meeting.n.03	-0.03500051409076919	
+
+synset:fresco.v.01	synset:artistic_production.n.01	6.247589978432876	*
+
+synset:polymer.n.01	synset:crack.v.12	-0.021849694849825598	
+
+synset:final_judgment.n.01	synset:law.n.01	7.817014107624086	*
+
+synset:nucleic_acid.n.01	synset:biochemistry.n.01	1.961728397374162	*
+
+synset:prance.v.04	synset:riding.n.02	0.6896067187555724	*
+
+synset:back.n.04	synset:football_game.n.01	4.998528692490252	*
+
+synset:filibuster.v.01	synset:passage.n.04	0.04808275261783925	
+
+synset:horse_cavalry.n.01	synset:war_machine.n.01	6.204061961162188	*
+
+synset:writing.n.01	synset:writing.n.01	1.08910059110938	
+
+synset:putt.v.01	synset:golf_game.n.01	4.05348663065787	*
+
+synset:vendor.n.01	synset:smuggle.v.01	-0.007794180479623855	
+
+synset:harp.v.02	synset:music.n.03	4.424352346997487	*
+synset:harp.v.02	synset:serialism.n.01	0.030900741184178383	
+
+synset:project.v.12	synset:psychology.n.01	3.501739697299271	*
+
+synset:savour.v.02	synset:preparation.n.08	8.919147201395358	*
+
+synset:integrate.v.04	synset:maths.n.01	4.246595865690435	*
+
+synset:chip_shot.n.01	synset:golf_game.n.01	2.7458502811336047	*
+
+synset:wing.n.05	synset:war_machine.n.01	3.501739697299271	*
+
+synset:sleeper.n.02	synset:ruf.n.01	-0.005932559771107933	
+
+synset:carry.v.34	synset:carry.v.34	-1.5619067006414729	
+
+synset:naturalization.n.02	synset:law.n.01	6.247589978432876	*
+
+synset:unrest.n.01	synset:bolt.n.07	-0.006050187798934293	
+
+synset:litigator.n.01	synset:law.n.01	10.156883439603591	*
+
+synset:access.v.01	synset:computing.n.01	2.744000093984419	*
+
+synset:fleet.n.04	synset:statistics.n.01	0.2918116414416059	
+
+synset:practice_of_medicine.n.01	synset:digitalize.v.02	-0.003208347657390362	
+
+synset:market.v.02	synset:mercantilism.n.02	5.085719613113108	*
+
+synset:establishment.n.06	synset:environmental_science.n.01	1.00049705637122	*
+
+synset:privatize.v.01	synset:securities_industry.n.01	-0.09676829347449434	
+
+synset:philosophizing.n.01	synset:philosophizing.n.01	-1.7699901185492375	
+
+synset:hole_out.v.01	synset:golf_game.n.01	1.7508698486496355	*
+
+synset:interdiction.n.02	synset:law.n.01	3.501739697299271	*
+
+synset:reckoning.n.01	synset:extrapolation.n.01	-0.14823999314264008	
+
+synset:seal.n.04	synset:occupation.n.02	-0.011983770737638025	
+
+synset:panel.n.07	synset:computing.n.01	3.0956870721010743	*
+
+synset:student.n.02	synset:artistic_production.n.01	1.5563287543552313	
+
+synset:plunker.n.01	synset:baseball_game.n.01	3.501739697299271	*
+
+synset:seat.n.01	synset:theatre.n.02	0.8293594019919326	*
+
+synset:grease_one's_palms.v.01	synset:cybercrime.n.01	0.0034344823298456608	
+
+synset:linguistic_scientist.n.01	synset:word_form.n.01	-2.3092081199868183E-4	
+
+synset:field.v.02	synset:sport.n.01	0.09464161344052084	*
+
+synset:deflation.n.01	synset:geology.n.01	2.7458502811336047	*
+
+synset:murder_conviction.n.01	synset:dissenting_opinion.n.01	-0.009487087595538662	
+
+synset:magnetic_disk.n.01	synset:computing.n.01	3.501739697299271	*
+
+synset:catholic_church.n.01	synset:church_of_england.n.01	0.010369095922111665	
+
+synset:strength.n.02	synset:war_machine.n.01	1.5694241291912112	*
+
+synset:husbandry.n.01	synset:husbandry.n.01	3.3624159917988212	
+
+synset:work_out.v.06	synset:maths.n.01	1.3398475230413949	*
+synset:work_out.v.06	synset:work_out.v.06	-1.0080409081641273	
+
+synset:adoption.n.02	synset:law.n.01	6.247589978432876	*
+
+synset:suite.n.01	synset:music.n.01	3.5523963743410314	*
+
+synset:theology.n.02	synset:theology.n.03	-0.21598866083639678	
+
+synset:withhold.v.02	synset:taxation.n.01	3.5144452967727116	
+
+synset:exorcize.v.01	synset:covenant.v.01	-0.28154996455430903	
+
+synset:culture.n.04	synset:biology.n.01	5.080343412666451	*
+
+synset:export.v.01	synset:mercantilism.n.02	5.506865699705597	*
+
+synset:seat.v.04	synset:cabinetwork.n.02	0.3183399724817519	*
+
+synset:dub.v.02	synset:picture_show.n.01	2.7391473588129607	*
+
+synset:terrasse.v.01	synset:architecture.n.03	0.6565761932436133	*
+
+synset:regression_analysis.n.01	synset:deviation.n.02	-0.054686888999641775	
+
+synset:mihrab.n.02	synset:muslimism.n.02	1.961728397374162	*
+
+synset:fault.n.07	synset:game.n.05	-0.047453171820414926	
+synset:fault.n.07	synset:return.n.11	-0.0710947942468749	
+
+synset:souse.v.01	synset:chemistry.n.01	0.7224333293102401	
+
+synset:net.n.04	synset:soccer.n.01	0.21697382126699719	*
+
+synset:motor.n.01	synset:tool_around.v.01	-0.12861870094809844	
+
+synset:poultice.v.01	synset:practice_of_medicine.n.01	6.246181393307523	*
+synset:poultice.v.01	synset:diagnosis.n.01	-0.004225755376058282	
+
+synset:automobile.v.01	synset:driving.n.02	0.5836232828832117	*
+
+synset:glide.v.02	synset:aviation.n.04	8.646665784980108	*
+
+synset:rule.n.02	synset:rule.n.02	-1.1831748892786658	
+
+synset:evidence.n.03	synset:legal_expert.n.01	-0.3309368523166843	
+
+synset:mixture.n.02	synset:chemistry.n.01	1.5599128879863358	
+
+synset:pack.v.08	synset:sport.n.01	6.247589978432876	*
+
+synset:kingdom_fungi.n.01	synset:kingdom.n.05	-0.9104319688240913	
+
+synset:surgical_process.n.01	synset:surgery.n.01	-0.06414356208894359	*
+
+synset:staff.n.03	synset:law.n.01	0.8754349243248177	
+
+synset:diffusion.n.01	synset:physics.n.01	0.5387291841998879	*
+
+synset:transitivity.n.01	synset:transpose.v.06	-0.005706557494113345	
+
+synset:sell.v.01	synset:mercantilism.n.02	4.802653411184401	*
+
+synset:sorption.n.01	synset:crack.v.12	-0.02823484662233995	
+
+synset:sing.v.01	synset:music.n.04	0.4104308479329571	
+
+synset:relativistic.a.01	synset:physics.n.01	1.174575964793208	*
+
+synset:metallurgy.n.01	synset:chemistry.n.01	-0.308657285806214	
+
+synset:raft.v.01	synset:piloting.n.01	3.501739697299271	*
+
+synset:archdeacon.n.01	synset:church_of_england.n.01	1.4006958789197084	*
+
+synset:drive.v.17	synset:golf_game.n.01	1.6535993015024335	*
+
+synset:molecule.n.01	synset:chemistry.n.01	3.1450066935792838	*
+
+synset:conduct.v.06	synset:music.n.03	2.5218812012785046	*
+
+synset:lawyer.n.01	synset:law.n.01	2.744000093984419	*
+
+synset:ice.v.01	synset:preparation.n.08	3.501739697299271	*
+
+synset:comet.n.01	synset:uranology.n.01	1.341102349249392	*
+
+synset:trip_the_light_fantastic_toe.v.01	synset:terpsichore.n.02	0.9967467017426913	*
+
+synset:option.n.01	synset:arbitration.n.01	-0.003980386709825192	
+
+synset:physics.n.01	synset:electronics.n.01	-0.09408686935507694	
+
+synset:play.v.07	synset:music.n.01	2.5909771926500973	*
+synset:play.v.07	synset:music.n.03	1.3183162685206173	*
+
+synset:carburize.v.01	synset:chemistry.n.01	2.8013917578394167	*
+
+synset:substantive.a.02	synset:biology.n.01	3.0968306809305304	*
+
+synset:infielder.n.01	synset:softball_game.n.01	0.7395067806014722	*
+
+synset:build.v.04	synset:dissociation.n.03	-0.007976718250990897	
+
+synset:footnote.v.01	synset:writing.n.01	5.692679391589756	*
+
+synset:liquidizer.n.01	synset:reactive.a.01	-0.03662460402115689	
+
+synset:deductible.n.01	synset:taxation.n.01	1.174575964793208	*
+
+synset:legislation.n.02	synset:eviction.n.01	-0.007004048402616379	
+synset:legislation.n.02	synset:demur.v.02	-0.01611030503956916	
+
+synset:encampment.n.02	synset:war_machine.n.01	5.083869425963923	*
+
+synset:ahimsa.n.01	synset:buddhism.n.02	0.12103301594485556	*
+
+synset:thrombosis.n.01	synset:surgical_process.n.01	-0.06263998005358799	
+
+synset:law.n.02	synset:suspend.v.03	-0.00843253072247609	
+
+synset:navy.n.01	synset:militarize.v.01	-0.7063832441587297	
+
+synset:separation.n.02	synset:ship.n.01	0.7003479394598542	
+
+synset:missal.n.01	synset:western_church.n.01	3.501739697299271	*
+
+synset:timer.n.02	synset:sport.n.01	3.501739697299271	*
+
+synset:reference.n.09	synset:computing.n.01	8.991590072417296	*
+
+synset:receiver.n.02	synset:smart_money.n.02	-0.011041755679467127	
+synset:receiver.n.02	synset:legacy.n.01	-0.02290687522168299	
+
+synset:pleader.n.01	synset:law.n.01	9.762035275205587	*
+
+synset:black.n.06	synset:piece.n.13	-1.0391197856823913	
+
+synset:concentration.n.04	synset:season.v.01	-0.007794180479623855	
+
+synset:buffer_store.n.01	synset:computing.n.01	5.071163826490482	*
+
+synset:plosion.n.01	synset:music.n.01	2.7458502811336047	
+
+synset:compound.n.02	synset:chemistry.n.01	0.7847120645956056	*
+
+synset:seizure.n.03	synset:steal.v.01	-0.01953203883740223	
+
+synset:explore.v.04	synset:practice_of_medicine.n.01	2.7430331108828994	*
+
+synset:tramp.v.01	synset:sport.n.01	8.58745931041238	*
+
+synset:occupation.n.02	synset:war_machine.n.01	2.3398693319795036	*
+
+synset:precedent.n.03	synset:law.n.01	1.8756751246917664	*
+
+synset:reduction_division.n.01	synset:interbreed.v.01	-0.21450564403103148	
+
+synset:maintenance.n.05	synset:law.n.01	3.501739697299271	*
+
+synset:service.n.12	synset:badminton.n.01	0.959970623116313	*
+
+synset:bidding.n.03	synset:bridge.n.05	0.6522008631736881	*
+
+synset:wear_round.v.01	synset:boat.n.01	-0.01361105875240194	*
+
+synset:harmonize.v.06	synset:music.n.04	1.7644132401895032	*
+
+synset:castle.v.01	synset:white.n.11	-0.12717842047975006	
+
+synset:rear.n.01	synset:war_machine.n.01	3.501739697299271	*
+
+synset:idealization.n.02	synset:psychopathology.n.02	6.247589978432876	*
+
+synset:etch.v.03	synset:artistic_production.n.01	5.841609029278775	*
+
+synset:the_tempter.n.01	synset:ramadan.n.02	-0.021533645570593195	
+
+synset:assault.n.01	synset:war_machine.n.01	8.559155166774508	*
+
+synset:egg.v.02	synset:preparation.n.08	2.9764787427043804	*
+
+synset:avestan.a.01	synset:avestan.a.01	-0.694687285211453	
+
+synset:extrapolation.n.02	synset:elicit.v.03	-0.14846484829179857	
+
+synset:volatile.a.01	synset:chemistry.n.01	1.174575964793208	*
+
+synset:multivariate_analysis.n.01	synset:statistics.n.01	1.5694241291912112	*
+
+synset:western_church.n.01	synset:protestant_church.n.01	-0.14923891635664208	
+synset:western_church.n.01	synset:western_church.n.01	-0.8866383889417857	
+
+synset:urinalysis.n.01	synset:medicine.n.02	-0.0195387566374533	
+
+synset:tender.n.03	synset:vendue.n.01	1.174575964793208	
+
+synset:drum.v.02	synset:music.n.03	4.179484882404692	*
+
+synset:portray.v.03	synset:performing_arts.n.01	2.7458502811336047	*
+
+synset:calk.v.01	synset:animal_husbandry.n.01	0.5529062679946217	*
+
+synset:broadcaster.n.01	synset:interrogate.v.01	-0.27852538684784817	
+
+synset:till.v.01	synset:husbandry.n.01	3.89889617641929	*
+
+synset:market.v.03	synset:mercantilism.n.02	5.607724984287682	*
+
+synset:golf_game.n.01	synset:medallist.n.02	-0.4235090149245436	
+
+synset:solo.v.01	synset:aviation.n.04	4.984498849111418	*
+
+synset:underbid.v.03	synset:vendue.n.01	6.247589978432876	*
+
+synset:medicine.n.02	synset:medicine.n.01	2.32931406385476	*
+
+synset:tap_dance.v.01	synset:nautch_dance.n.01	0.13408253902521697	
+
+synset:usa.n.02	synset:war_machine.n.01	3.0919721978990276	*
+
+synset:white.n.11	synset:chess_game.n.01	1.3711606677023402	*
+
+synset:pulsing.n.01	synset:electronics.n.01	0.030900741184178383	*
+
+synset:decompose.v.01	synset:chemistry.n.01	6.24573979128369	*
+
+synset:bat.v.01	synset:baseball_game.n.01	1.174575964793208	*
+
+synset:team.n.01	synset:terrorist_act.n.01	1.5563287543552313	
+
+synset:id.n.03	synset:psychoanalyze.v.01	-0.7063832441587297	
+
+synset:crab.n.03	synset:star_divination.n.01	3.501739697299271	*
+
+synset:psychologist.n.01	synset:perceptual_constancy.n.01	-1.2469723847928819E-4	
+
+synset:thrust.v.05	synset:remise.n.03	-0.25194641813270324	
+
+synset:formation.n.01	synset:war_machine.n.01	1.5694241291912112	
+
+synset:commanding_officer.n.01	synset:war_machine.n.01	8.58745931041238	*
+
+synset:risc.n.01	synset:computing.n.01	6.247589978432876	*
+
+synset:community.n.06	synset:environmental_science.n.01	2.626304772974453	*
+
+synset:piece.n.13	synset:open.v.09	-0.05424704154967588	
+
+synset:rugger.n.01	synset:football_game.n.01	-0.6380591454211197	
+
+synset:vector.n.03	synset:bacterium.n.01	0.003281344139012635	
+
+synset:minstrel.n.02	synset:music.n.03	1.1632530437280473	
+
+synset:interior.n.01	synset:clinician.n.01	-0.045055369003889525	
+
+synset:season.v.01	synset:brine.v.01	-0.0077816693101545615	
+
+synset:trade.v.03	synset:mercantilism.n.02	5.9780486776502535	*
+
+synset:strike.v.03	synset:scintillation.n.01	-0.03057716957390897	
+
+synset:polyvalency.n.01	synset:chemistry.n.01	1.174575964793208	*
+
+synset:temple.n.03	synset:shaft.n.09	-0.0013018364762732266	
+
+synset:general_damages.n.01	synset:law.n.01	3.501739697299271	*
+
+synset:pay.v.10	synset:return.v.10	0.2074285686702668	
+
+synset:box.v.03	synset:sport.n.01	5.071163826490482	*
+
+synset:relationship.n.04	synset:anthropology.n.01	0.9318455767072816	*
+synset:relationship.n.04	synset:biology.n.01	0.6375785524839296	
+
+synset:lineage.n.05	synset:genetical.a.02	-0.0129589831532454	
+
+synset:conjugate.v.01	synset:chemistry.n.01	1.5224955205649005	*
+
+synset:capital.n.02	synset:stagnation.n.01	-0.0250307605577164	
+
+synset:vedic_literature.n.01	synset:religious_belief.n.01	-0.13512394791009968	
+
+synset:living.n.03	synset:convict.v.01	0.9707299695946707	
+
+synset:pixy.n.02	synset:folklore.n.01	1.9100398348905112	*
+
+synset:designation.n.01	synset:title_of_respect.n.01	-0.26074908036224714	
+
+synset:cream.v.01	synset:preparation.n.08	6.247589978432876	*
+
+synset:caramelize.v.02	synset:preparation.n.08	2.3398693319795036	*
+
+synset:marines.n.01	synset:hostile.n.01	-0.006887224561860934	
+
+synset:air.v.02	synset:broadcasting.n.01	2.3398693319795036	*
+
+synset:yiddish.n.01	synset:yiddish.n.01	-2.3671204522268274	
+
+synset:ticket.n.03	synset:commutation.n.02	-0.09653246731415169	
+
+synset:reprize.v.01	synset:music.n.03	1.3794732140875916	*
+
+synset:insolence.n.01	synset:kvetch.n.01	-0.04191816847020409	
+
+synset:computing.n.01	synset:computing.n.01	-2.77166693285131	
+
+synset:ninja.n.02	synset:hinduism.n.02	1.7508698486496355	
+
+synset:judgment_of_dismissal.n.01	synset:law.n.01	6.247589978432876	*
+
+synset:friendly.n.01	synset:war_machine.n.01	6.21579191386825	*
+
+synset:pillar.n.05	synset:architecture.n.02	4.842842046548663	*
+
+synset:straight_thrust.n.01	synset:fencing.n.03	4.842842046548663	*
+
+synset:statistical_regression.n.01	synset:statistics.n.01	3.8809893175328427	*
+
+synset:purchase.v.01	synset:mercantilism.n.02	1.5694241291912112	*
+
+synset:trigonometry.n.01	synset:maths.n.01	3.5523963743410314	*
+
+synset:reduce.v.18	synset:preparation.n.08	2.3398693319795036	*
+
+synset:profile.v.01	synset:paragraph.v.03	-0.18329747117539924	
+
+synset:rut.n.03	synset:amniotic_sac.n.01	-0.14399784294468773	
+
+synset:pragmatism.n.01	synset:formalism.n.02	-0.08062572489174101	
+
+synset:consent_decree.n.01	synset:law.n.01	6.247589978432876	*
+
+synset:park.n.03	synset:slugger.n.01	-0.032443691354983685	
+
+synset:ground.v.08	synset:baseball_game.n.01	2.515667763758886	*
+
+synset:loop.n.03	synset:computing.n.01	5.204929084315271	*
+
+synset:denier.n.03	synset:eristic.n.01	-0.8267297961685375	
+
+synset:depolarize.v.01	synset:physics.n.01	0.3501739697299271	*
+
+synset:saturate.v.01	synset:chemistry.n.01	0.5836232828832117	*
+
+synset:alchemize.v.01	synset:chemistry.n.01	0.5836232828832117	*
+
+synset:classical_mythology.n.01	synset:mythology.n.02	0.2641521239987056	
+
+synset:abreact.v.01	synset:psychoanalysis.n.01	1.174575964793208	*
+
+synset:process.n.06	synset:reinforcing_stimulus.n.01	-0.017849026574409482	
+
+synset:register.n.04	synset:computing.n.01	5.421000617457952	*
+
+synset:religious_belief.n.01	synset:religious_belief.n.01	-2.341240793113041	
+
+synset:hoe.v.01	synset:taint.v.02	-0.013928776015714265	
+
+synset:take.v.40	synset:drive.n.12	0.0	
+
+synset:ridge.v.02	synset:husbandry.n.01	6.247589978432876	*
+
+synset:suborder.n.01	synset:biology.n.01	3.501739697299271	*
+
+synset:relief.n.03	synset:law.n.01	3.501739697299271	*
+
+synset:magnetize.v.01	synset:wave.v.03	-0.017536836766901535	
+
+synset:light_colonel.n.01	synset:war_machine.n.01	2.7458502811336047	*
+
+synset:portray.v.02	synset:draw.v.06	-0.13396654368658464	
+
+synset:produce.v.02	synset:make.v.17	0.008520935469113956	
+
+synset:key_pattern.n.01	synset:braid.v.02	-0.0015678445260085248	
+
+synset:larghetto.n.01	synset:music.n.01	3.5523963743410314	*
+
+synset:acidify.v.02	synset:chemistry.n.01	2.67780094499356	*
+
+synset:combat_casualty.n.01	synset:war_machine.n.01	2.7458502811336047	*
+
+synset:smart_money.n.02	synset:law.n.01	3.501739697299271	*
+
+synset:information_processing_system.n.01	synset:parser.n.01	-0.010918309702394205	
+
+synset:address.v.07	synset:computing.n.01	3.9204262459268127	*
+
+synset:offense.n.03	synset:violation.n.01	-0.0185246840972679	
+
+synset:nonmember.n.01	synset:star_divination.n.01	2.334493131532847	
+
+synset:music.n.01	synset:play.v.07	-0.02280942322415633	
+
+synset:push.v.08	synset:offense.n.03	2.1549167367995516	*
+
+synset:morphology.n.02	synset:qualify.v.07	-0.002424679019173263	
+synset:morphology.n.02	synset:theme.n.05	-0.01815056339680288	
+
+synset:quarter.v.01	synset:operation.n.05	-0.016250238684999977	
+
+synset:shop.v.01	synset:mercantilism.n.02	3.909293461170715	*
+
+synset:university.n.01	synset:war_machine.n.01	3.501739697299271	
+
+synset:rectilinear_regression.n.01	synset:statistics.n.01	2.724251975878196	*
+
+synset:vicar.n.03	synset:january_1.n.01	-0.1938684843968427	
+
+synset:authority.n.03	synset:law.n.01	3.479731766214874	
+
+synset:trot.v.02	synset:riding.n.02	0.7273399165742735	*
+
+synset:forehand_stroke.n.01	synset:badminton.n.01	0.27535011127454645	*
+
+synset:anima.n.01	synset:psychology.n.01	0.4416417496711219	*
+
+synset:ayurveda.n.01	synset:hinduism.n.02	0.3843918932322728	*
+
+synset:typography.n.02	synset:trial_impression.n.01	-0.002852563551968545	
+
+synset:erase.v.03	synset:erase.v.03	-0.38205755665290575	
+
+synset:concha.n.01	synset:general_anatomy.n.01	3.209928055857665	*
+
+synset:public_prosecutor.n.01	synset:law.n.01	8.111580436364475	*
+
+synset:sail.v.03	synset:piloting.n.01	4.512539773493801	*
+
+synset:retell.v.03	synset:risc.n.01	-0.03874861153759658	
+
+synset:prove.v.04	synset:rationalize.v.05	-0.06045213022246693	
+
+synset:mercantilism.n.02	synset:mercantilism.n.02	-2.465496802892236	
+
+synset:receivership.n.02	synset:law.n.01	7.422165943226084	*
+synset:receivership.n.02	synset:ticket.v.01	-0.0019057328166537351	
+
+synset:stage_dancing.n.01	synset:sidestep.n.01	-0.002164891981404699	
+
+synset:summary_judgment.n.01	synset:law.n.01	6.247589978432876	*
+
+synset:repression.n.02	synset:psychopathology.n.02	6.247589978432876	*
+
+synset:lard.v.01	synset:preparation.n.08	3.467961645990622	*
+
+synset:televise.v.01	synset:video.n.04	1.1011029676886783	*
+
+synset:derivative_instrument.n.01	synset:law.n.01	6.247589978432876	*
+
+synset:cosmology.n.02	synset:cosmology.n.02	-2.824811867742024	
+
+synset:caramelize.v.01	synset:preparation.n.08	2.3398693319795036	*
+
+synset:elect.v.01	synset:take.v.10	-0.6511465233689466	
+
+synset:provost_marshal.n.01	synset:war_machine.n.01	2.7458502811336047	*
+
+synset:drive.v.19	synset:mining.n.01	1.1621956912607692	*
+
+synset:hutment.n.01	synset:war_machine.n.01	6.247589978432876	*
+
+synset:ferry.v.01	synset:piloting.n.01	2.3398693319795036	*
+
+synset:sonnet.v.02	synset:rime.v.02	-0.08878185298726554	
+
+synset:resolving.n.01	synset:arithmetic.n.01	-0.02049332680765533	
+
+synset:jive.v.01	synset:terpsichore.n.02	4.873443383595967	*
+
+synset:semiotics.n.01	synset:determinism.n.01	-0.08987828053228518	
+
+synset:bluff_out.v.01	synset:whist.n.01	0.007212412892675888	
+
+synset:remise.n.03	synset:fencing.n.03	5.463468094673432	*
+
+synset:insolation.n.03	synset:pedology.n.01	0.09270222355253514	
+
+synset:introvert.n.01	synset:psychology.n.01	2.3398693319795036	*
+
+synset:traffic.v.02	synset:mercantilism.n.02	5.714867633812156	*
+synset:traffic.v.02	synset:trade.v.01	-0.1811951415210053	
+
+synset:par.v.01	synset:golf_game.n.01	1.1672465657664235	*
+
+synset:permit.n.01	synset:law.n.01	6.247589978432876	*
+
+synset:gallop.v.01	synset:riding.n.01	0.5634086892233027	*
+
+synset:support.n.04	synset:war_machine.n.01	6.247589978432876	*
+
+synset:infer.v.01	synset:system_of_logic.n.01	4.809593138291947	*
+
+synset:sideboard.n.03	synset:piece_of_furniture.n.01	2.8609650475667747	
+
+synset:transfuse.v.04	synset:practice_of_medicine.n.01	6.247589978432876	*
+
+synset:mess.v.01	synset:soldier.n.01	-0.0056875835397499925	
+
+synset:culpable_negligence.n.01	synset:law.n.01	3.501739697299271	*
+
+synset:resect.v.01	synset:practice_of_medicine.n.01	0.7003479394598542	*
+
+synset:judicial_decision.n.01	synset:law.n.01	3.9009372332473577	*
+
+synset:tone.n.03	synset:theme.n.03	-0.08122809128254488	
+
+synset:defensive_measure.n.01	synset:war_machine.n.01	7.817014107624086	*
+
+synset:roman_mythology.n.01	synset:roman_mythology.n.01	-1.5355474024090672	
+
+synset:practice_of_law.n.01	synset:law.n.01	1.174575964793208	*
+
+synset:passport.n.02	synset:law.n.01	6.247589978432876	*
+
+synset:trump.v.03	synset:cards.n.01	2.1173520371430117	*
+
+synset:charcoal.v.01	synset:artistic_production.n.01	6.247589978432876	*
+
+synset:ascii.n.01	synset:computing.n.01	6.247589978432876	*
+
+synset:record.v.01	synset:transcription.n.05	-0.003532928993760647	*
+
+synset:writing_style.n.01	synset:style.n.02	-0.7773857757793932	
+
+synset:distribution.n.03	synset:poker_game.n.01	-0.05804220733010208	
+
+synset:nurse.v.01	synset:practice_of_medicine.n.01	3.057821587886893	*
+
+synset:tally.v.02	synset:golf_game.n.01	0.44840689405463174	
+
+synset:peripheral_device.n.01	synset:computing.n.01	7.032892223864644	*
+
+synset:market.v.04	synset:transaction.n.01	-0.15234894203916927	
+
+synset:big_bang.n.01	synset:cosmology.n.02	3.501739697299271	*
+
+synset:variety.n.03	synset:biology.n.01	5.463468094673432	*
+
+synset:firepower.n.01	synset:war_machine.n.01	2.7458502811336047	*
+
+synset:shore.n.01	synset:lake.n.01	0.20796776625768398	*
+
+synset:reproduction.n.01	synset:biology.n.01	1.174575964793208	*
+
+synset:replay.v.03	synset:game.n.01	1.174575964793208	
+
+synset:solvate.v.02	synset:chemistry.n.01	5.841609029278775	*
+
+synset:sulcus.n.01	synset:general_anatomy.n.01	2.7458502811336047	*
+
+synset:office.n.02	synset:provos.n.01	-0.06147998042296599	
+
+synset:soul.n.02	synset:soul.n.02	-1.1268453911498328	
+
+synset:semiconductor_unit.n.01	synset:limiter.n.01	-0.039522844557621	
+
+synset:revolutionary_justice_organization.n.01	synset:tanzimul_fuqra.n.01	0.0	
+
+synset:deal.v.12	synset:cards.n.01	3.5144452967727116	*
+
+synset:palpate.v.01	synset:transfuse.v.03	-0.017975656106457037	
+

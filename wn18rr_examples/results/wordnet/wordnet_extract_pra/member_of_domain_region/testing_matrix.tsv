@@ -1,0 +1,65 @@
+synset:lebanon.n.01,synset:plf.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-instance_hypernym-_instance_hypernym-,0.027777777777777776 -#- -member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.038461538461538464 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-synset_domain_topic_of-_synset_domain_topic_of-,0.02
+synset:africa.n.01,synset:south_west_africa.n.01	1	-has_part-,0.027522935779816515 -#- -has_part-_has_part-has_part-,0.009900990099009901
+synset:quizmaster.n.01,synset:aggro.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667
+synset:rome.n.01,synset:procurator.n.02	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.05825242718446602
+synset:islamic_state_of_afghanistan.n.01,synset:west_pakistan.n.01	-1	-_has_part-has_part-,0.04 -#- -has_part-instance_hypernym-_instance_hypernym-_has_part-,0.023255813953488372 -#- -has_part-_has_part-,0.27419354838709675 -#- -has_part-instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.02040816326530612 -#- -member_of_domain_region-_member_of_domain_region-,0.525 -#- -_has_part-has_part-_has_part-has_part-,0.010752688172043012
+synset:palestine.n.01,synset:revolutionary_organization_of_socialist_muslims.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.011494252873563218 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-synset_domain_topic_of-_synset_domain_topic_of-,0.044444444444444446
+synset:nm.n.02,synset:usa.n.01	-1	-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.04054054054054054 -#- -has_part-instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.043478260869565216 -#- -_has_part-,0.4366812227074236
+synset:taxation.n.01,synset:united_kingdom_of_great_britain_and_northern_ireland.n.01	-1	-_hypernym-_member_of_domain_region-,1.0
+synset:germany.n.01,synset:red_army_faction.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.07142857142857142 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-,0.04
+synset:cooky.n.02,synset:spotted_dick.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.013333333333333334
+synset:ireland.n.02,synset:irish_gaelic.n.01	1	-_derivationally_related_form-derivationally_related_form-,0.14754098360655737 -#- -derivationally_related_form-derivationally_related_form-,0.25 -#- -derivationally_related_form-_derivationally_related_form-,0.18032786885245902 -#- -_derivationally_related_form-_derivationally_related_form-,0.24
+synset:multiple_voting.n.01,synset:spring_onion.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667 -#- -_member_of_domain_region-member_of_domain_region-_member_of_domain_region-member_of_domain_region-,0.012987012987012988
+synset:criollo.n.01,synset:portuguese_republic.n.01	-1	-_member_of_domain_region-has_part-_has_part-,0.045454545454545456
+synset:assyria.n.01,synset:babylon.n.01	-1	-_has_part-has_part-,0.20149253731343283 -#- -_has_part-member_of_domain_region-,0.47333333333333333 -#- -_has_part-has_part-_has_part-has_part-,0.1388888888888889 -#- -_has_part-has_part-has_part-,0.014925373134328358 -#- -_has_part-member_of_domain_region-instance_hypernym-_instance_hypernym-,0.012345679012345678
+synset:spain.n.01,synset:spain.n.01	-1	-_has_part-has_part-,0.13286713286713286 -#- -_member_meronym-member_meronym-,0.05343511450381679 -#- -has_part-instance_hypernym-_instance_hypernym-_has_part-,0.05172413793103448 -#- -has_part-_has_part-,0.9586776859504132 -#- -has_part-instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.022222222222222223 -#- -_hypernym-hypernym-,1.0 -#- -member_of_domain_region-_member_of_domain_region-,0.8372093023255814 -#- -member_meronym-_member_meronym-,0.7066666666666667 -#- -_has_part-has_part-_has_part-has_part-,0.08695652173913043
+synset:wales.n.01,synset:severn_river.n.02	-1	-has_part-,0.22983870967741934 -#- -has_part-_has_part-has_part-,0.2761904761904762 -#- -derivationally_related_form-_derivationally_related_form-_member_of_domain_region-has_part-,0.3103448275862069 -#- -_has_part-has_part-has_part-,0.11594202898550725
+synset:bydgoszcz.n.01,synset:republic_of_poland.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.021739130434782608 -#- -instance_hypernym-_instance_hypernym-_has_part-,0.01098901098901099 -#- -instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.04 -#- -_has_part-,1.0
+synset:doorknob.n.01,synset:teashop.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667
+synset:rocker.n.03,synset:weald.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667
+synset:polynesia.n.01,synset:samoan_islands.n.01	-1	-has_part-,0.23655913978494625 -#- -has_part-instance_hypernym-_instance_hypernym-_has_part-has_part-,0.09259259259259259 -#- -has_part-instance_hypernym-_instance_hypernym-,0.009345794392523364 -#- -_has_part-has_part-has_part-,0.09 -#- -has_part-_has_part-has_part-,0.20930232558139536
+synset:vesuvius.n.01,synset:french_republic.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.029411764705882353
+synset:urban_center.n.01,synset:allentown.n.01	-1	-_instance_hypernym-,0.013636363636363636
+synset:italian.n.02,synset:romance_language.n.01	-1	-_member_of_domain_region-member_of_domain_region-hypernym-,0.3076923076923077 -#- -hypernym-,1.0 -#- -hypernym-hypernym-_hypernym-,1.0
+synset:lynchburg.n.01,synset:virginia.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.43636363636363634 -#- -instance_hypernym-_instance_hypernym-_has_part-,0.011111111111111112 -#- -_has_part-,1.0
+synset:ir.n.02,synset:invigilation.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667
+synset:romanic.a.01,synset:tunnel.n.01	-1	-_member_of_domain_region-member_of_domain_region-hypernym-,0.0684931506849315
+synset:master_of_ceremonies.n.01,synset:question_time.n.01	-1	-_hypernym-_member_of_domain_region-member_of_domain_region-,0.02
+synset:zion.n.02,synset:tanzim.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.1
+synset:hellenic_republic.n.01,synset:sibyl.n.02	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.0136986301369863
+synset:republic_of_ireland.n.01,synset:continuity_irish_republican_army.n.01	1	-member_of_domain_region-instance_hypernym-_instance_hypernym-,0.02197802197802198
+synset:brahmaputra_river.n.01,synset:hinduism.n.01	-1	-_has_part-member_of_domain_region-,0.1793103448275862
+synset:revolutionary_organization_of_socialist_muslims.n.01,synset:terrorist_act.n.01	-1	-instance_hypernym-_instance_hypernym-synset_domain_topic_of-,1.0 -#- -synset_domain_topic_of-,1.0
+synset:trillion.n.03,synset:paris.n.01	-1	-_member_of_domain_region-has_part-,0.0273972602739726
+synset:kingdom_of_belgium.n.01,synset:switzerland.n.01	-1	-_has_part-has_part-,0.03007518796992481 -#- -has_part-instance_hypernym-_instance_hypernym-_has_part-,0.0273972602739726
+synset:antalya.n.01,synset:socialist_people's_libyan_arab_jamahiriya.n.01	-1	-instance_hypernym-_instance_hypernym-_has_part-,0.01098901098901099 -#- -instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.02
+synset:police_chief.n.01,synset:united_kingdom_of_great_britain_and_northern_ireland.n.01	-1	-_hypernym-_member_of_domain_region-,1.0
+synset:west_pakistan.n.01,synset:tanzimul_fuqra.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.012987012987012988
+synset:nepal.n.01,synset:hinduism.n.01	1	-has_part-_has_part-member_of_domain_region-,0.037037037037037035
+synset:pork_sausage.n.01,synset:butty.n.01	-1	-_hypernym-_member_of_domain_region-member_of_domain_region-,0.008547008547008548
+synset:northern_ireland.n.01,synset:ulster_defence_association.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-instance_hypernym-_instance_hypernym-,0.05263157894736842 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-,0.020618556701030927 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-synset_domain_topic_of-_synset_domain_topic_of-,0.02040816326530612
+synset:republic_of_india.n.01,synset:hinduism.n.01	1	-has_part-_has_part-member_of_domain_region-,0.07894736842105263
+synset:ms.n.02,synset:inch.n.01	-1	-_has_part-member_of_domain_region-,0.013333333333333334
+synset:lebanon.n.01,synset:asia.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.058823529411764705 -#- -_has_part-,0.5514285714285714
+synset:united_mexican_states.n.01,synset:puebla_de_zaragoza.n.01	1	-has_part-,0.06806282722513089 -#- -_has_part-has_part-has_part-,0.05660377358490566 -#- -has_part-_has_part-has_part-,0.043478260869565216
+synset:invigilator.n.01,synset:rag_week.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.009345794392523364 -#- -_member_of_domain_region-member_of_domain_region-_member_of_domain_region-member_of_domain_region-,0.01639344262295082
+synset:south_dakota.n.01,synset:usa.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.14285714285714285 -#- -_has_part-,0.5
+synset:rheims.n.01,synset:french_republic.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.038461538461538464 -#- -instance_hypernym-_instance_hypernym-_has_part-,0.02702702702702703 -#- -instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.05454545454545454 -#- -_has_part-,1.0
+synset:border.n.05,synset:olfactory_organ.n.01	-1	-_hypernym-_member_of_domain_region-member_of_domain_region-hypernym-,0.02857142857142857
+synset:portsmouth.n.03,synset:tristram.n.01	-1	-_has_part-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.038461538461538464
+synset:usa.n.01,synset:union.n.02	1	-_instance_hypernym-,1.0
+synset:urban_center.n.01,synset:urban_center.n.01	-1	-has_part-_has_part-,1.0 -#- -hypernym-_hypernym-,0.5533333333333333 -#- -_instance_hypernym-instance_hypernym-,0.8760330578512396
+synset:socialist_people's_libyan_arab_jamahiriya.n.01,synset:libyan_islamic_group.n.01	1	-member_of_domain_region-instance_hypernym-_instance_hypernym-,0.017543859649122806
+synset:kandy.n.01,synset:sri_lanka.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.390625 -#- -_has_part-,1.0
+synset:medical_intern.n.01,synset:pelican_crossing.n.01	-1	-_member_of_domain_region-member_of_domain_region-,0.006666666666666667
+synset:tabu.n.01,synset:intoxicant.n.01	-1	-_member_of_domain_region-member_of_domain_region-hypernym-,0.5227272727272727
+synset:shamanism.n.01,synset:federation.n.02	-1	-_member_of_domain_region-member_of_domain_region-hypernym-,0.014492753623188406
+synset:twin_falls.n.01,synset:water_spaniel.n.01	-1	-_has_part-member_of_domain_region-,0.03488372093023256 -#- -_has_part-member_of_domain_region-hypernym-_hypernym-,0.02564102564102564
+synset:republic_of_peru.n.01,synset:sl.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.018518518518518517 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-,0.041666666666666664
+synset:ghent.n.01,synset:kingdom_of_belgium.n.01	-1	-_has_part-has_part-instance_hypernym-_instance_hypernym-_has_part-,0.02127659574468085 -#- -instance_hypernym-_instance_hypernym-instance_hypernym-_instance_hypernym-_has_part-,0.017543859649122806 -#- -_has_part-,1.0
+synset:zion.n.02,synset:fatah.n.01	1	-has_part-_has_part-member_of_domain_region-,0.07692307692307693
+synset:republic_of_bolivia.n.01,synset:tupac_katari_guerrilla_army.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.013513513513513514
+synset:democratic_and_popular_republic_of_algeria.n.01,synset:gia.n.01	1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.0136986301369863 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-,0.028169014084507043 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-synset_domain_topic_of-_synset_domain_topic_of-,0.022727272727272728
+synset:minicar.n.01,synset:workhouse.n.01	-1	-_member_of_domain_region-member_of_domain_region-_member_of_domain_region-member_of_domain_region-,0.017857142857142856
+synset:republic_of_ireland.n.01,synset:orly_group.n.01	-1	-member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-instance_hypernym-_instance_hypernym-,0.05263157894736842 -#- -member_of_domain_region-synset_domain_topic_of-_synset_domain_topic_of-,0.010869565217391304 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-,0.02197802197802198 -#- -member_of_domain_region-instance_hypernym-_instance_hypernym-synset_domain_topic_of-_synset_domain_topic_of-,0.018867924528301886
+synset:salem.n.03,synset:warehouse.n.01	-1	-_has_part-member_of_domain_region-hypernym-,0.14285714285714285

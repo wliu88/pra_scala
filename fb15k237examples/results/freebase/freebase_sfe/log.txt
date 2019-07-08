@@ -1,0 +1,12 @@
+Time for relation |award|award_category|nominees.|award|award_nomination|nominated_for: 0 minutes and 7 seconds
+Time for relation |award|award_winning_work|awards_won.|award|award_honor|award: 0 minutes and 1 seconds
+Time for relation |music|record_label|artist: 0 minutes and 1 seconds
+Time for relation |film|film|production_companies: 0 minutes and 1 seconds
+Time for relation |film|film|genre: 0 minutes and 2 seconds
+Time for relation |education|educational_institution|students_graduates.|education|education|major_field_of_study: 0 minutes and 3 seconds
+Time for relation |people|person|profession: 0 minutes and 3 seconds
+Time for relation |tv|tv_program|regular_cast.|tv|regular_tv_appearance|actor: 0 minutes and 0 seconds
+Time for relation |sports|sports_position|players.|sports|sports_team_roster|team: 0 minutes and 0 seconds
+Time for relation |food|food|nutrients.|food|nutrition_fact|nutrient: 0 minutes and 0 seconds
+PRA appears to have finished all relations successfully
+Total time: 0 minutes and 23 seconds

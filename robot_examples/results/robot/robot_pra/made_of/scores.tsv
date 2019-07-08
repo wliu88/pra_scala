@@ -1,0 +1,70 @@
+object:water.n.06	material:glass.n.01	0.21886617810627185	
+
+object:table.n.02	material:metal.n.02	0.6815343392537798	
+
+object:potato.n.01	material:metal.n.02	1.1246507153935057	
+
+object:drinking_glass.n.01	material:plastic.n.01	0.33970354216675575	*
+object:drinking_glass.n.01	material:glass.n.01	0.2521528025393929	*
+object:drinking_glass.n.01	material:ceramic.n.01	0.1842615828020974	*
+
+object:can.n.01	material:plastic.n.01	0.7031819616622963	
+
+object:fork.n.01	material:metal.n.02	0.8093932289211202	*
+object:fork.n.01	material:plastic.n.01	0.4546511501100864	*
+
+object:napkin.n.01	material:plastic.n.01	0.6776926561053558	
+
+object:coffee_maker.n.01	material:wood.n.01	0.10728677609301177	
+
+object:cabinet.n.01	material:wood.n.01	0.08394943351517967	*
+
+object:sink.n.01	material:metal.n.02	0.7160742631895485	*
+object:sink.n.01	material:ceramic.n.01	0.29791438238972695	*
+
+object:watering_can.n.01	material:fabric.n.01	0.05444312661488142	
+
+object:pot.n.01	material:metal.n.02	0.9583403265139203	*
+object:pot.n.01	material:plastic.n.01	0.39822648815839357	
+object:pot.n.01	material:ceramic.n.01	0.19476802494775186	*
+
+object:cellphone.n.01	material:clay.n.01	0.10132902279050214	
+
+object:rolling_pin.n.01	material:ceramic.n.01	0.37267572858714676	
+
+object:switch.n.01	material:plastic.n.01	0.2837621916097197	*
+
+object:alarm_clock.n.01	material:metal.n.02	0.9776730188696134	*
+object:alarm_clock.n.01	material:plastic.n.01	0.21700726332139703	*
+
+object:box.n.01	material:plastic.n.01	0.8130813561012957	*
+object:box.n.01	material:wood.n.01	0.17374656812993486	*
+
+object:lamp.n.02	material:glass.n.01	0.3029330355973415	
+
+object:kitchen_stove.n.01	material:metal.n.02	0.46395914582905207	*
+
+object:container.n.01	material:metal.n.02	1.0010959581507444	*
+object:container.n.01	material:plastic.n.01	0.48969654543930435	*
+object:container.n.01	material:ceramic.n.01	0.22036308630485624	*
+object:container.n.01	material:glass.n.01	0.1403196106392805	*
+object:container.n.01	material:clay.n.01	0.07002283506388632	*
+
+object:soap.n.01	material:wood.n.01	0.09726294115934357	
+
+object:teapot.n.01	material:clay.n.01	0.10237144700145286	
+
+object:apple.n.01	material:glass.n.01	0.12790639548527588	
+
+object:aluminum_foil.n.01	material:metal.n.02	0.8377877890400941	*
+object:aluminum_foil.n.01	material:plastic.n.01	0.49865922837277993	
+
+object:mug.n.04	material:plastic.n.01	0.6551016987241319	
+
+object:egg.n.02	material:wood.n.01	0.08043801206867092	
+
+object:knife.n.01	material:plastic.n.01	0.6349412920958567	*
+object:knife.n.01	material:metal.n.02	0.6223479475925908	*
+
+object:spoon.n.01	material:paper.n.01	0.2229408459676126	
+
