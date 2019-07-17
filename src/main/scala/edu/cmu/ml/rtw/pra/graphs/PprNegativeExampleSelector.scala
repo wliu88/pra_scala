@@ -56,6 +56,7 @@ class PprNegativeExampleSelector(
 
     val negativeData = new Dataset[NodePairInstance](negativeExamples.map(x =>
         new NodePairInstance(x._1, x._2, false, graph)))
+    outputter.info(s"Sampled ${negativeData.instances.size} negative instances")
     negativeData
   }
 

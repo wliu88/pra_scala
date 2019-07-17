@@ -16,6 +16,8 @@ trait MetricComputer {
   // somewhere instead of just instantiated right here.
   val fileUtil = new FileUtil()
 
+  val outputter = Outputter.justLogger
+
   def readPredictionsFromFile(results_file: String): List[Prediction] = {
     val predictions = new mutable.ListBuffer[Prediction]
     for (line <- fileUtil.getLineIterator(results_file)) {
@@ -98,6 +100,8 @@ object BasicMetricComputer extends MetricComputer {
     metrics("Predicted MRR") = average(preds_only_mrr_results)
     val num_no_preds = (testData.keys.toSet -- predictions.map(_._3).toSet).size
     metrics("% no predictions") = num_no_preds.toDouble / testData.keys.size
+    val percent = num_no_preds.toDouble / testData.keys.size
+    outputter.info(s"${percent}% no predictions")
     metrics
   }
 
