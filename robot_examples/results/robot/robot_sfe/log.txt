@@ -1,6 +1,0 @@
-Time for relation in: 0 minutes and 1 seconds
-Time for relation on: 0 minutes and 1 seconds
-Time for relation made_of: 0 minutes and 0 seconds
-Time for relation used_for: 0 minutes and 0 seconds
-PRA appears to have finished all relations successfully
-Total time: 0 minutes and 3 seconds

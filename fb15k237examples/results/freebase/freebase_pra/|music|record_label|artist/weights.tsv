@@ -1,8 +1,0 @@
--|music|record_label|artist-_|music|record_label|artist-|music|record_label|artist-	0.06643498269115833
--|music|record_label|artist-_|music|genre|artists-|music|genre|artists-	0.04412204756694023
--|music|record_label|artist-_|music|genre|artists-|music|genre|parent_genre-|music|genre|artists-	0.028594584695838213
--|music|record_label|artist-_|music|genre|artists-_|music|genre|parent_genre-|music|genre|artists-	0.017923928764550935
--|music|record_label|artist-|music|artist|track_contributions.|music|track_contribution|role-_|music|artist|track_contributions.|music|track_contribution|role-	0.0
--|music|record_label|artist-_|music|genre|artists-|music|genre|artists-_|music|genre|artists-|music|genre|artists-	0.0
--|music|record_label|artist-_|music|record_label|artist-|music|record_label|artist-_|music|genre|artists-|music|genre|artists-	-0.0036979017491039793
--|music|record_label|artist-|music|artist|track_contributions.|music|track_contribution|role-|music|performance_role|track_performances.|music|track_contribution|role-_|music|artist|contribution.|music|recording_contribution|performance_role-	-0.06983583379531086

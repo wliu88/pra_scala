@@ -1,6 +1,0 @@
-{
-  "name": "nell/kb-t",
-  "relation sets": [
-    "load relation_sets/nell/kb_no_types"
-  ]
-}

@@ -1,6 +1,0 @@
-load default_pra_parameters
-{
-  "split": "multilingual/all_languages",
-  "graph": "freebase/kb",
-  "relation metadata": "freebase"
-}

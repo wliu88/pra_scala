@@ -1,6 +1,0 @@
-load default_pra_parameters
-{
-  "graph": "freebase/kb",
-  "relation metadata": "freebase",
-  "split": "freebase"
-}

@@ -1,7 +1,0 @@
-{
-  "name": "nell/kb_svo",
-  "relation sets": [
-    "load relation_sets/nell/kb",
-    "load relation_sets/nell/svo"
-  ]
-}

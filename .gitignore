@@ -6,3 +6,7 @@
 target/
 walkmanager.log
 /bin
+wn18rr_examples/
+examples/
+fb15k237_examples/
+1_to_1_example_sets/

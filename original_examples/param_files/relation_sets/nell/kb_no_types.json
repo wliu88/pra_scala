@@ -1,6 +1,0 @@
-{
-  "relation file": "/home/mg1/pra/relation_metadata/nell/labeled_edges_no_generalizations.tsv",
-  "is kb": true,
-  "alias file": "/home/mg1/data/NELL_dumps/concepts_to_nps_728.tsv",
-  "alias file format": "nell"
-}
